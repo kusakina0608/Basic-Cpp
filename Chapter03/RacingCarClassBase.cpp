@@ -1,7 +1,9 @@
 //
 // Created by Kina on 2020/01/28.
 //
-/*#include <iostream>
+/*
+#include <iostream>
+#include <cstring>
 using namespace std;
 
 namespace CAR_CONST{
@@ -14,33 +16,35 @@ namespace CAR_CONST{
     };
 }
 
-struct Car{
+class Car{
+private:
     char gamerID[CAR_CONST::ID_LEN];
     int fuelGauge;
     int curSpeed;
-
-
-
+public:
+    void InitMembers(char* ID, int fuel);
     void ShowCarState();
     void Accel();
     void Break();
 };
 
 int main(void){
-    Car run99={"run99", 100, 0};
+    Car run99;
+    run99.InitMembers("run99", 100);
+    run99.Accel();
     run99.Accel();
     run99.Accel();
     run99.ShowCarState();
     run99.Break();
     run99.ShowCarState();
-
-    Car sped77={"sped77", 100, 0};
-    sped77.Accel();
-    sped77.Break();
-    sped77.ShowCarState();
     return 0;
 }
 
+void Car::InitMembers(char* ID, int fuel){
+    strcpy(gamerID, ID);
+    fuelGauge = fuel;
+    curSpeed=0;
+}
 
 inline void Car::ShowCarState(){
     cout<<"소유자ID: "<<gamerID<<endl;

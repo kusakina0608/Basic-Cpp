@@ -80,7 +80,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/Car.cpp">
+			<Option target="Chapter03"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/Car.h">
+			<Option target="Chapter03"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/CarInline.cpp">
+			<Option target="Chapter03"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/CarInline.h">
+			<Option target="Chapter03"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/FruitSaleSim1.cpp">
+			<Option target="Chapter03"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCar.cpp">
+			<Option target="Chapter03"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarClassBase.cpp">
 			<Option target="Chapter03"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarEnum.cpp">
@@ -90,6 +108,12 @@
 			<Option target="Chapter03"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarOuterFunc.cpp">
+			<Option target="Chapter03"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingInlineMain.cpp">
+			<Option target="Chapter03"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingMain.cpp">
 			<Option target="Chapter03"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter03/CMakeLists.txt">

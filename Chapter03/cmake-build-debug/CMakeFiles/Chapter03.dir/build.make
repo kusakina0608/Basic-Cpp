@@ -109,12 +109,96 @@ CMakeFiles/Chapter03.dir/RacingCarOuterFunc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter03.dir/RacingCarOuterFunc.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarOuterFunc.cpp -o CMakeFiles/Chapter03.dir/RacingCarOuterFunc.cpp.s
 
+CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.o: CMakeFiles/Chapter03.dir/flags.make
+CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.o: ../RacingCarClassBase.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarClassBase.cpp
+
+CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarClassBase.cpp > CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.i
+
+CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarClassBase.cpp -o CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.s
+
+CMakeFiles/Chapter03.dir/Car.cpp.o: CMakeFiles/Chapter03.dir/flags.make
+CMakeFiles/Chapter03.dir/Car.cpp.o: ../Car.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter03.dir/Car.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter03.dir/Car.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter03/Car.cpp
+
+CMakeFiles/Chapter03.dir/Car.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter03.dir/Car.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter03/Car.cpp > CMakeFiles/Chapter03.dir/Car.cpp.i
+
+CMakeFiles/Chapter03.dir/Car.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter03.dir/Car.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter03/Car.cpp -o CMakeFiles/Chapter03.dir/Car.cpp.s
+
+CMakeFiles/Chapter03.dir/RacingMain.cpp.o: CMakeFiles/Chapter03.dir/flags.make
+CMakeFiles/Chapter03.dir/RacingMain.cpp.o: ../RacingMain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter03.dir/RacingMain.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter03.dir/RacingMain.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingMain.cpp
+
+CMakeFiles/Chapter03.dir/RacingMain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter03.dir/RacingMain.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingMain.cpp > CMakeFiles/Chapter03.dir/RacingMain.cpp.i
+
+CMakeFiles/Chapter03.dir/RacingMain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter03.dir/RacingMain.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingMain.cpp -o CMakeFiles/Chapter03.dir/RacingMain.cpp.s
+
+CMakeFiles/Chapter03.dir/CarInline.cpp.o: CMakeFiles/Chapter03.dir/flags.make
+CMakeFiles/Chapter03.dir/CarInline.cpp.o: ../CarInline.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter03.dir/CarInline.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter03.dir/CarInline.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter03/CarInline.cpp
+
+CMakeFiles/Chapter03.dir/CarInline.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter03.dir/CarInline.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter03/CarInline.cpp > CMakeFiles/Chapter03.dir/CarInline.cpp.i
+
+CMakeFiles/Chapter03.dir/CarInline.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter03.dir/CarInline.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter03/CarInline.cpp -o CMakeFiles/Chapter03.dir/CarInline.cpp.s
+
+CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.o: CMakeFiles/Chapter03.dir/flags.make
+CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.o: ../RacingInlineMain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingInlineMain.cpp
+
+CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingInlineMain.cpp > CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.i
+
+CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingInlineMain.cpp -o CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.s
+
+CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.o: CMakeFiles/Chapter03.dir/flags.make
+CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.o: ../FruitSaleSim1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter03/FruitSaleSim1.cpp
+
+CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter03/FruitSaleSim1.cpp > CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.i
+
+CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter03/FruitSaleSim1.cpp -o CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.s
+
 # Object files for target Chapter03
 Chapter03_OBJECTS = \
 "CMakeFiles/Chapter03.dir/RacingCar.cpp.o" \
 "CMakeFiles/Chapter03.dir/RacingCarFuncAdd.cpp.o" \
 "CMakeFiles/Chapter03.dir/RacingCarEnum.cpp.o" \
-"CMakeFiles/Chapter03.dir/RacingCarOuterFunc.cpp.o"
+"CMakeFiles/Chapter03.dir/RacingCarOuterFunc.cpp.o" \
+"CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.o" \
+"CMakeFiles/Chapter03.dir/Car.cpp.o" \
+"CMakeFiles/Chapter03.dir/RacingMain.cpp.o" \
+"CMakeFiles/Chapter03.dir/CarInline.cpp.o" \
+"CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.o" \
+"CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.o"
 
 # External object files for target Chapter03
 Chapter03_EXTERNAL_OBJECTS =
@@ -123,9 +207,15 @@ Chapter03: CMakeFiles/Chapter03.dir/RacingCar.cpp.o
 Chapter03: CMakeFiles/Chapter03.dir/RacingCarFuncAdd.cpp.o
 Chapter03: CMakeFiles/Chapter03.dir/RacingCarEnum.cpp.o
 Chapter03: CMakeFiles/Chapter03.dir/RacingCarOuterFunc.cpp.o
+Chapter03: CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.o
+Chapter03: CMakeFiles/Chapter03.dir/Car.cpp.o
+Chapter03: CMakeFiles/Chapter03.dir/RacingMain.cpp.o
+Chapter03: CMakeFiles/Chapter03.dir/CarInline.cpp.o
+Chapter03: CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.o
+Chapter03: CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.o
 Chapter03: CMakeFiles/Chapter03.dir/build.make
 Chapter03: CMakeFiles/Chapter03.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Chapter03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter03/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable Chapter03"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter03.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

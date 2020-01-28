@@ -123,6 +123,87 @@ Chapter03/fast:
 	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/build
 .PHONY : Chapter03/fast
 
+Car.o: Car.cpp.o
+
+.PHONY : Car.o
+
+# target to build an object file
+Car.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/Car.cpp.o
+.PHONY : Car.cpp.o
+
+Car.i: Car.cpp.i
+
+.PHONY : Car.i
+
+# target to preprocess a source file
+Car.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/Car.cpp.i
+.PHONY : Car.cpp.i
+
+Car.s: Car.cpp.s
+
+.PHONY : Car.s
+
+# target to generate assembly for a file
+Car.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/Car.cpp.s
+.PHONY : Car.cpp.s
+
+CarInline.o: CarInline.cpp.o
+
+.PHONY : CarInline.o
+
+# target to build an object file
+CarInline.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/CarInline.cpp.o
+.PHONY : CarInline.cpp.o
+
+CarInline.i: CarInline.cpp.i
+
+.PHONY : CarInline.i
+
+# target to preprocess a source file
+CarInline.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/CarInline.cpp.i
+.PHONY : CarInline.cpp.i
+
+CarInline.s: CarInline.cpp.s
+
+.PHONY : CarInline.s
+
+# target to generate assembly for a file
+CarInline.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/CarInline.cpp.s
+.PHONY : CarInline.cpp.s
+
+FruitSaleSim1.o: FruitSaleSim1.cpp.o
+
+.PHONY : FruitSaleSim1.o
+
+# target to build an object file
+FruitSaleSim1.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.o
+.PHONY : FruitSaleSim1.cpp.o
+
+FruitSaleSim1.i: FruitSaleSim1.cpp.i
+
+.PHONY : FruitSaleSim1.i
+
+# target to preprocess a source file
+FruitSaleSim1.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.i
+.PHONY : FruitSaleSim1.cpp.i
+
+FruitSaleSim1.s: FruitSaleSim1.cpp.s
+
+.PHONY : FruitSaleSim1.s
+
+# target to generate assembly for a file
+FruitSaleSim1.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/FruitSaleSim1.cpp.s
+.PHONY : FruitSaleSim1.cpp.s
+
 RacingCar.o: RacingCar.cpp.o
 
 .PHONY : RacingCar.o
@@ -149,6 +230,33 @@ RacingCar.s: RacingCar.cpp.s
 RacingCar.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingCar.cpp.s
 .PHONY : RacingCar.cpp.s
+
+RacingCarClassBase.o: RacingCarClassBase.cpp.o
+
+.PHONY : RacingCarClassBase.o
+
+# target to build an object file
+RacingCarClassBase.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.o
+.PHONY : RacingCarClassBase.cpp.o
+
+RacingCarClassBase.i: RacingCarClassBase.cpp.i
+
+.PHONY : RacingCarClassBase.i
+
+# target to preprocess a source file
+RacingCarClassBase.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.i
+.PHONY : RacingCarClassBase.cpp.i
+
+RacingCarClassBase.s: RacingCarClassBase.cpp.s
+
+.PHONY : RacingCarClassBase.s
+
+# target to generate assembly for a file
+RacingCarClassBase.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingCarClassBase.cpp.s
+.PHONY : RacingCarClassBase.cpp.s
 
 RacingCarEnum.o: RacingCarEnum.cpp.o
 
@@ -231,6 +339,60 @@ RacingCarOuterFunc.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingCarOuterFunc.cpp.s
 .PHONY : RacingCarOuterFunc.cpp.s
 
+RacingInlineMain.o: RacingInlineMain.cpp.o
+
+.PHONY : RacingInlineMain.o
+
+# target to build an object file
+RacingInlineMain.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.o
+.PHONY : RacingInlineMain.cpp.o
+
+RacingInlineMain.i: RacingInlineMain.cpp.i
+
+.PHONY : RacingInlineMain.i
+
+# target to preprocess a source file
+RacingInlineMain.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.i
+.PHONY : RacingInlineMain.cpp.i
+
+RacingInlineMain.s: RacingInlineMain.cpp.s
+
+.PHONY : RacingInlineMain.s
+
+# target to generate assembly for a file
+RacingInlineMain.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingInlineMain.cpp.s
+.PHONY : RacingInlineMain.cpp.s
+
+RacingMain.o: RacingMain.cpp.o
+
+.PHONY : RacingMain.o
+
+# target to build an object file
+RacingMain.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingMain.cpp.o
+.PHONY : RacingMain.cpp.o
+
+RacingMain.i: RacingMain.cpp.i
+
+.PHONY : RacingMain.i
+
+# target to preprocess a source file
+RacingMain.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingMain.cpp.i
+.PHONY : RacingMain.cpp.i
+
+RacingMain.s: RacingMain.cpp.s
+
+.PHONY : RacingMain.s
+
+# target to generate assembly for a file
+RacingMain.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter03.dir/build.make CMakeFiles/Chapter03.dir/RacingMain.cpp.s
+.PHONY : RacingMain.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -240,9 +402,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Chapter03"
+	@echo "... Car.o"
+	@echo "... Car.i"
+	@echo "... Car.s"
+	@echo "... CarInline.o"
+	@echo "... CarInline.i"
+	@echo "... CarInline.s"
+	@echo "... FruitSaleSim1.o"
+	@echo "... FruitSaleSim1.i"
+	@echo "... FruitSaleSim1.s"
 	@echo "... RacingCar.o"
 	@echo "... RacingCar.i"
 	@echo "... RacingCar.s"
+	@echo "... RacingCarClassBase.o"
+	@echo "... RacingCarClassBase.i"
+	@echo "... RacingCarClassBase.s"
 	@echo "... RacingCarEnum.o"
 	@echo "... RacingCarEnum.i"
 	@echo "... RacingCarEnum.s"
@@ -252,6 +426,12 @@ help:
 	@echo "... RacingCarOuterFunc.o"
 	@echo "... RacingCarOuterFunc.i"
 	@echo "... RacingCarOuterFunc.s"
+	@echo "... RacingInlineMain.o"
+	@echo "... RacingInlineMain.i"
+	@echo "... RacingInlineMain.s"
+	@echo "... RacingMain.o"
+	@echo "... RacingMain.i"
+	@echo "... RacingMain.s"
 .PHONY : help
 
 
