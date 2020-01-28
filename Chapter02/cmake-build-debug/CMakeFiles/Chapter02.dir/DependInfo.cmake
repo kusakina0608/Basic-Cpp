@@ -15,6 +15,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/RefReturnTwo.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/cmake-build-debug/CMakeFiles/Chapter02.dir/RefReturnTwo.cpp.o"
   "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/RefSwap.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/cmake-build-debug/CMakeFiles/Chapter02.dir/RefSwap.cpp.o"
   "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/Referen.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/cmake-build-debug/CMakeFiles/Chapter02.dir/Referen.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/StdCPPFunc.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/cmake-build-debug/CMakeFiles/Chapter02.dir/StdCPPFunc.cpp.o"
   "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/TrueAndFalse.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter02/cmake-build-debug/CMakeFiles/Chapter02.dir/TrueAndFalse.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

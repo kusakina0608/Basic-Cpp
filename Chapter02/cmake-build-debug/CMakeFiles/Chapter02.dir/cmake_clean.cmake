@@ -10,6 +10,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Chapter02.dir/RefReturnTwo.cpp.o"
   "CMakeFiles/Chapter02.dir/RefSwap.cpp.o"
   "CMakeFiles/Chapter02.dir/Referen.cpp.o"
+  "CMakeFiles/Chapter02.dir/StdCPPFunc.cpp.o"
   "CMakeFiles/Chapter02.dir/TrueAndFalse.cpp.o"
   "Chapter02"
   "Chapter02.pdb"

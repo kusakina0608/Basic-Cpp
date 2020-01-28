@@ -420,6 +420,33 @@ Referen.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter02.dir/build.make CMakeFiles/Chapter02.dir/Referen.cpp.s
 .PHONY : Referen.cpp.s
 
+StdCPPFunc.o: StdCPPFunc.cpp.o
+
+.PHONY : StdCPPFunc.o
+
+# target to build an object file
+StdCPPFunc.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter02.dir/build.make CMakeFiles/Chapter02.dir/StdCPPFunc.cpp.o
+.PHONY : StdCPPFunc.cpp.o
+
+StdCPPFunc.i: StdCPPFunc.cpp.i
+
+.PHONY : StdCPPFunc.i
+
+# target to preprocess a source file
+StdCPPFunc.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter02.dir/build.make CMakeFiles/Chapter02.dir/StdCPPFunc.cpp.i
+.PHONY : StdCPPFunc.cpp.i
+
+StdCPPFunc.s: StdCPPFunc.cpp.s
+
+.PHONY : StdCPPFunc.s
+
+# target to generate assembly for a file
+StdCPPFunc.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter02.dir/build.make CMakeFiles/Chapter02.dir/StdCPPFunc.cpp.s
+.PHONY : StdCPPFunc.cpp.s
+
 TrueAndFalse.o: TrueAndFalse.cpp.o
 
 .PHONY : TrueAndFalse.o
@@ -489,6 +516,9 @@ help:
 	@echo "... Referen.o"
 	@echo "... Referen.i"
 	@echo "... Referen.s"
+	@echo "... StdCPPFunc.o"
+	@echo "... StdCPPFunc.i"
+	@echo "... StdCPPFunc.s"
 	@echo "... TrueAndFalse.o"
 	@echo "... TrueAndFalse.i"
 	@echo "... TrueAndFalse.s"

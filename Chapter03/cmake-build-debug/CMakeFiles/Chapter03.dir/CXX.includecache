@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/kina/Documents/GitHub/BasicCpp/Chapter02/StdCPPFunc.cpp
-cmath
--
-cstdio
--
-cstring
+/Users/kina/Documents/GitHub/BasicCpp/Chapter03/RacingCarOuterFunc.cpp
+iostream
 -
 

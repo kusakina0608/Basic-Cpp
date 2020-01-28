@@ -113,6 +113,9 @@
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter02/Referen.cpp">
 			<Option target="Chapter02"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter02/StdCPPFunc.cpp">
+			<Option target="Chapter02"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter02/TrueAndFalse.cpp">
 			<Option target="Chapter02"/>
 		</Unit>

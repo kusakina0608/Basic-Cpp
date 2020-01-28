@@ -7,6 +7,8 @@ CMakeFiles/Chapter02.dir/MemMalFree.cpp.o: ../MemMalFree.cpp
 
 CMakeFiles/Chapter02.dir/NewDelete.cpp.o: ../NewDelete.cpp
 
+CMakeFiles/Chapter02.dir/NewObject.cpp.o: ../NewObject.cpp
+
 CMakeFiles/Chapter02.dir/RefArrElem.cpp.o: ../RefArrElem.cpp
 
 CMakeFiles/Chapter02.dir/RefPtr.cpp.o: ../RefPtr.cpp
@@ -20,6 +22,8 @@ CMakeFiles/Chapter02.dir/RefReturnTwo.cpp.o: ../RefReturnTwo.cpp
 CMakeFiles/Chapter02.dir/RefSwap.cpp.o: ../RefSwap.cpp
 
 CMakeFiles/Chapter02.dir/Referen.cpp.o: ../Referen.cpp
+
+CMakeFiles/Chapter02.dir/StdCPPFunc.cpp.o: ../StdCPPFunc.cpp
 
 CMakeFiles/Chapter02.dir/TrueAndFalse.cpp.o: ../TrueAndFalse.cpp
 

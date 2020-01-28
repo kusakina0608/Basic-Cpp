@@ -7,6 +7,8 @@ CMakeFiles/Chapter02.dir/MemMalFree.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter02/MemMalFree.cpp
 CMakeFiles/Chapter02.dir/NewDelete.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter02/NewDelete.cpp
+CMakeFiles/Chapter02.dir/NewObject.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter02/NewObject.cpp
 CMakeFiles/Chapter02.dir/RefArrElem.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter02/RefArrElem.cpp
 CMakeFiles/Chapter02.dir/RefPtr.cpp.o
@@ -21,5 +23,7 @@ CMakeFiles/Chapter02.dir/RefSwap.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter02/RefSwap.cpp
 CMakeFiles/Chapter02.dir/Referen.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter02/Referen.cpp
+CMakeFiles/Chapter02.dir/StdCPPFunc.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter02/StdCPPFunc.cpp
 CMakeFiles/Chapter02.dir/TrueAndFalse.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter02/TrueAndFalse.cpp
