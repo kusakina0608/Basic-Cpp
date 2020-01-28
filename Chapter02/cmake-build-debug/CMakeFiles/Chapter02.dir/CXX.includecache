@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter02/MemMalFree.cpp
+iostream
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter02/NewDelete.cpp
+iostream
+-
+string.h
+-
+
