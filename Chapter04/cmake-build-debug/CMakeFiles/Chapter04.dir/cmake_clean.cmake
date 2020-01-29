@@ -1,13 +1,18 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Chapter04.dir/Constructor1.cpp.o"
   "CMakeFiles/Chapter04.dir/Constructor2.cpp.o"
+  "CMakeFiles/Chapter04.dir/Destructor.cpp.o"
   "CMakeFiles/Chapter04.dir/Encaps1.cpp.o"
   "CMakeFiles/Chapter04.dir/Encaps2.cpp.o"
   "CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.o"
+  "CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o"
   "CMakeFiles/Chapter04.dir/Point.cpp.o"
+  "CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o"
   "CMakeFiles/Chapter04.dir/Rectangle.cpp.o"
+  "CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o"
   "CMakeFiles/Chapter04.dir/RectangleFault.cpp.o"
   "CMakeFiles/Chapter04.dir/RectangleFaultFind.cpp.o"
+  "CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o"
   "Chapter04"
   "Chapter04.pdb"
 )

@@ -174,6 +174,71 @@ CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim2.cpp -o CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.s
 
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o: CMakeFiles/Chapter04.dir/flags.make
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o: ../RectangleConstructor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleConstructor.cpp
+
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleConstructor.cpp > CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.i
+
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleConstructor.cpp -o CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.s
+
+CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o: CMakeFiles/Chapter04.dir/flags.make
+CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o: ../FruitSaleSim3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim3.cpp
+
+CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim3.cpp > CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.i
+
+CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim3.cpp -o CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.s
+
+CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o: CMakeFiles/Chapter04.dir/flags.make
+CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o: ../ReferenceMember.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter04/ReferenceMember.cpp
+
+CMakeFiles/Chapter04.dir/ReferenceMember.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter04.dir/ReferenceMember.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter04/ReferenceMember.cpp > CMakeFiles/Chapter04.dir/ReferenceMember.cpp.i
+
+CMakeFiles/Chapter04.dir/ReferenceMember.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter04.dir/ReferenceMember.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter04/ReferenceMember.cpp -o CMakeFiles/Chapter04.dir/ReferenceMember.cpp.s
+
+CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o: CMakeFiles/Chapter04.dir/flags.make
+CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o: ../PrivateConstructor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter04/PrivateConstructor.cpp
+
+CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter04/PrivateConstructor.cpp > CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.i
+
+CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter04/PrivateConstructor.cpp -o CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.s
+
+CMakeFiles/Chapter04.dir/Destructor.cpp.o: CMakeFiles/Chapter04.dir/flags.make
+CMakeFiles/Chapter04.dir/Destructor.cpp.o: ../Destructor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Chapter04.dir/Destructor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter04.dir/Destructor.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Destructor.cpp
+
+CMakeFiles/Chapter04.dir/Destructor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter04.dir/Destructor.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Destructor.cpp > CMakeFiles/Chapter04.dir/Destructor.cpp.i
+
+CMakeFiles/Chapter04.dir/Destructor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter04.dir/Destructor.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Destructor.cpp -o CMakeFiles/Chapter04.dir/Destructor.cpp.s
+
 # Object files for target Chapter04
 Chapter04_OBJECTS = \
 "CMakeFiles/Chapter04.dir/RectangleFault.cpp.o" \
@@ -184,7 +249,12 @@ Chapter04_OBJECTS = \
 "CMakeFiles/Chapter04.dir/Encaps2.cpp.o" \
 "CMakeFiles/Chapter04.dir/Constructor1.cpp.o" \
 "CMakeFiles/Chapter04.dir/Constructor2.cpp.o" \
-"CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.o"
+"CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.o" \
+"CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o" \
+"CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o" \
+"CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o" \
+"CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o" \
+"CMakeFiles/Chapter04.dir/Destructor.cpp.o"
 
 # External object files for target Chapter04
 Chapter04_EXTERNAL_OBJECTS =
@@ -198,9 +268,14 @@ Chapter04: CMakeFiles/Chapter04.dir/Encaps2.cpp.o
 Chapter04: CMakeFiles/Chapter04.dir/Constructor1.cpp.o
 Chapter04: CMakeFiles/Chapter04.dir/Constructor2.cpp.o
 Chapter04: CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.o
+Chapter04: CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o
+Chapter04: CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o
+Chapter04: CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o
+Chapter04: CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o
+Chapter04: CMakeFiles/Chapter04.dir/Destructor.cpp.o
 Chapter04: CMakeFiles/Chapter04.dir/build.make
 Chapter04: CMakeFiles/Chapter04.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable Chapter04"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter04/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable Chapter04"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter04.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

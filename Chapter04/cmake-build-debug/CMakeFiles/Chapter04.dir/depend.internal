@@ -5,22 +5,34 @@ CMakeFiles/Chapter04.dir/Constructor1.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Constructor1.cpp
 CMakeFiles/Chapter04.dir/Constructor2.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Constructor2.cpp
+CMakeFiles/Chapter04.dir/Destructor.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Destructor.cpp
 CMakeFiles/Chapter04.dir/Encaps1.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Encaps1.cpp
 CMakeFiles/Chapter04.dir/Encaps2.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Encaps2.cpp
 CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim2.cpp
+CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim3.cpp
 CMakeFiles/Chapter04.dir/Point.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Point.cpp
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Point.h
+CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter04/PrivateConstructor.cpp
 CMakeFiles/Chapter04.dir/Rectangle.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Point.h
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Rectangle.cpp
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Rectangle.h
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Point.h
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Rectangle.h
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleConstructor.cpp
 CMakeFiles/Chapter04.dir/RectangleFault.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleFault.cpp
 CMakeFiles/Chapter04.dir/RectangleFaultFind.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Point.h
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/Rectangle.h
  /Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleFaultFind.cpp
+CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter04/ReferenceMember.cpp

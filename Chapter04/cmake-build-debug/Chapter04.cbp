@@ -86,6 +86,9 @@
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Constructor2.cpp">
 			<Option target="Chapter04"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Destructor.cpp">
+			<Option target="Chapter04"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Encaps1.cpp">
 			<Option target="Chapter04"/>
 		</Unit>
@@ -95,10 +98,16 @@
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim2.cpp">
 			<Option target="Chapter04"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim3.cpp">
+			<Option target="Chapter04"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Point.cpp">
 			<Option target="Chapter04"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Point.h">
+			<Option target="Chapter04"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/PrivateConstructor.cpp">
 			<Option target="Chapter04"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Rectangle.cpp">
@@ -107,10 +116,16 @@
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Rectangle.h">
 			<Option target="Chapter04"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleConstructor.cpp">
+			<Option target="Chapter04"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleFault.cpp">
 			<Option target="Chapter04"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/RectangleFaultFind.cpp">
+			<Option target="Chapter04"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/ReferenceMember.cpp">
 			<Option target="Chapter04"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter04/CMakeLists.txt">

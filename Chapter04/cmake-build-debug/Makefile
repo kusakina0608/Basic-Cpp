@@ -177,6 +177,33 @@ Constructor2.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/Constructor2.cpp.s
 .PHONY : Constructor2.cpp.s
 
+Destructor.o: Destructor.cpp.o
+
+.PHONY : Destructor.o
+
+# target to build an object file
+Destructor.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/Destructor.cpp.o
+.PHONY : Destructor.cpp.o
+
+Destructor.i: Destructor.cpp.i
+
+.PHONY : Destructor.i
+
+# target to preprocess a source file
+Destructor.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/Destructor.cpp.i
+.PHONY : Destructor.cpp.i
+
+Destructor.s: Destructor.cpp.s
+
+.PHONY : Destructor.s
+
+# target to generate assembly for a file
+Destructor.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/Destructor.cpp.s
+.PHONY : Destructor.cpp.s
+
 Encaps1.o: Encaps1.cpp.o
 
 .PHONY : Encaps1.o
@@ -258,6 +285,33 @@ FruitSaleSim2.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.s
 .PHONY : FruitSaleSim2.cpp.s
 
+FruitSaleSim3.o: FruitSaleSim3.cpp.o
+
+.PHONY : FruitSaleSim3.o
+
+# target to build an object file
+FruitSaleSim3.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o
+.PHONY : FruitSaleSim3.cpp.o
+
+FruitSaleSim3.i: FruitSaleSim3.cpp.i
+
+.PHONY : FruitSaleSim3.i
+
+# target to preprocess a source file
+FruitSaleSim3.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.i
+.PHONY : FruitSaleSim3.cpp.i
+
+FruitSaleSim3.s: FruitSaleSim3.cpp.s
+
+.PHONY : FruitSaleSim3.s
+
+# target to generate assembly for a file
+FruitSaleSim3.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.s
+.PHONY : FruitSaleSim3.cpp.s
+
 Point.o: Point.cpp.o
 
 .PHONY : Point.o
@@ -285,6 +339,33 @@ Point.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/Point.cpp.s
 .PHONY : Point.cpp.s
 
+PrivateConstructor.o: PrivateConstructor.cpp.o
+
+.PHONY : PrivateConstructor.o
+
+# target to build an object file
+PrivateConstructor.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o
+.PHONY : PrivateConstructor.cpp.o
+
+PrivateConstructor.i: PrivateConstructor.cpp.i
+
+.PHONY : PrivateConstructor.i
+
+# target to preprocess a source file
+PrivateConstructor.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.i
+.PHONY : PrivateConstructor.cpp.i
+
+PrivateConstructor.s: PrivateConstructor.cpp.s
+
+.PHONY : PrivateConstructor.s
+
+# target to generate assembly for a file
+PrivateConstructor.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.s
+.PHONY : PrivateConstructor.cpp.s
+
 Rectangle.o: Rectangle.cpp.o
 
 .PHONY : Rectangle.o
@@ -311,6 +392,33 @@ Rectangle.s: Rectangle.cpp.s
 Rectangle.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/Rectangle.cpp.s
 .PHONY : Rectangle.cpp.s
+
+RectangleConstructor.o: RectangleConstructor.cpp.o
+
+.PHONY : RectangleConstructor.o
+
+# target to build an object file
+RectangleConstructor.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o
+.PHONY : RectangleConstructor.cpp.o
+
+RectangleConstructor.i: RectangleConstructor.cpp.i
+
+.PHONY : RectangleConstructor.i
+
+# target to preprocess a source file
+RectangleConstructor.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.i
+.PHONY : RectangleConstructor.cpp.i
+
+RectangleConstructor.s: RectangleConstructor.cpp.s
+
+.PHONY : RectangleConstructor.s
+
+# target to generate assembly for a file
+RectangleConstructor.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.s
+.PHONY : RectangleConstructor.cpp.s
 
 RectangleFault.o: RectangleFault.cpp.o
 
@@ -366,6 +474,33 @@ RectangleFaultFind.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/RectangleFaultFind.cpp.s
 .PHONY : RectangleFaultFind.cpp.s
 
+ReferenceMember.o: ReferenceMember.cpp.o
+
+.PHONY : ReferenceMember.o
+
+# target to build an object file
+ReferenceMember.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o
+.PHONY : ReferenceMember.cpp.o
+
+ReferenceMember.i: ReferenceMember.cpp.i
+
+.PHONY : ReferenceMember.i
+
+# target to preprocess a source file
+ReferenceMember.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/ReferenceMember.cpp.i
+.PHONY : ReferenceMember.cpp.i
+
+ReferenceMember.s: ReferenceMember.cpp.s
+
+.PHONY : ReferenceMember.s
+
+# target to generate assembly for a file
+ReferenceMember.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter04.dir/build.make CMakeFiles/Chapter04.dir/ReferenceMember.cpp.s
+.PHONY : ReferenceMember.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -381,6 +516,9 @@ help:
 	@echo "... Constructor2.o"
 	@echo "... Constructor2.i"
 	@echo "... Constructor2.s"
+	@echo "... Destructor.o"
+	@echo "... Destructor.i"
+	@echo "... Destructor.s"
 	@echo "... Encaps1.o"
 	@echo "... Encaps1.i"
 	@echo "... Encaps1.s"
@@ -390,18 +528,30 @@ help:
 	@echo "... FruitSaleSim2.o"
 	@echo "... FruitSaleSim2.i"
 	@echo "... FruitSaleSim2.s"
+	@echo "... FruitSaleSim3.o"
+	@echo "... FruitSaleSim3.i"
+	@echo "... FruitSaleSim3.s"
 	@echo "... Point.o"
 	@echo "... Point.i"
 	@echo "... Point.s"
+	@echo "... PrivateConstructor.o"
+	@echo "... PrivateConstructor.i"
+	@echo "... PrivateConstructor.s"
 	@echo "... Rectangle.o"
 	@echo "... Rectangle.i"
 	@echo "... Rectangle.s"
+	@echo "... RectangleConstructor.o"
+	@echo "... RectangleConstructor.i"
+	@echo "... RectangleConstructor.s"
 	@echo "... RectangleFault.o"
 	@echo "... RectangleFault.i"
 	@echo "... RectangleFault.s"
 	@echo "... RectangleFaultFind.o"
 	@echo "... RectangleFaultFind.i"
 	@echo "... RectangleFaultFind.s"
+	@echo "... ReferenceMember.o"
+	@echo "... ReferenceMember.i"
+	@echo "... ReferenceMember.s"
 .PHONY : help
 
 

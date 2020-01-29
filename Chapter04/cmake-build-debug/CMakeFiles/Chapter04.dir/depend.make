@@ -5,22 +5,34 @@ CMakeFiles/Chapter04.dir/Constructor1.cpp.o: ../Constructor1.cpp
 
 CMakeFiles/Chapter04.dir/Constructor2.cpp.o: ../Constructor2.cpp
 
+CMakeFiles/Chapter04.dir/Destructor.cpp.o: ../Destructor.cpp
+
 CMakeFiles/Chapter04.dir/Encaps1.cpp.o: ../Encaps1.cpp
 
 CMakeFiles/Chapter04.dir/Encaps2.cpp.o: ../Encaps2.cpp
 
 CMakeFiles/Chapter04.dir/FruitSaleSim2.cpp.o: ../FruitSaleSim2.cpp
 
+CMakeFiles/Chapter04.dir/FruitSaleSim3.cpp.o: ../FruitSaleSim3.cpp
+
 CMakeFiles/Chapter04.dir/Point.cpp.o: ../Point.cpp
 CMakeFiles/Chapter04.dir/Point.cpp.o: ../Point.h
+
+CMakeFiles/Chapter04.dir/PrivateConstructor.cpp.o: ../PrivateConstructor.cpp
 
 CMakeFiles/Chapter04.dir/Rectangle.cpp.o: ../Point.h
 CMakeFiles/Chapter04.dir/Rectangle.cpp.o: ../Rectangle.cpp
 CMakeFiles/Chapter04.dir/Rectangle.cpp.o: ../Rectangle.h
+
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o: ../Point.h
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o: ../Rectangle.h
+CMakeFiles/Chapter04.dir/RectangleConstructor.cpp.o: ../RectangleConstructor.cpp
 
 CMakeFiles/Chapter04.dir/RectangleFault.cpp.o: ../RectangleFault.cpp
 
 CMakeFiles/Chapter04.dir/RectangleFaultFind.cpp.o: ../Point.h
 CMakeFiles/Chapter04.dir/RectangleFaultFind.cpp.o: ../Rectangle.h
 CMakeFiles/Chapter04.dir/RectangleFaultFind.cpp.o: ../RectangleFaultFind.cpp
+
+CMakeFiles/Chapter04.dir/ReferenceMember.cpp.o: ../ReferenceMember.cpp
 

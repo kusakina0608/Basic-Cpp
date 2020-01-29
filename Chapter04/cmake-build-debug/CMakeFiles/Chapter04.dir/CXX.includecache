@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Constructor2.cpp
-iostream
--
-
-/Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim2.cpp
+/Users/kina/Documents/GitHub/BasicCpp/Chapter04/PrivateConstructor.cpp
 iostream
 -
 
