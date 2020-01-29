@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter04/Constructor2.cpp
+iostream
+-
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter04/FruitSaleSim2.cpp
+iostream
+-
+
