@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter07/HASComposite.cpp
+iostream
+-
+cstring
+-
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter07/HASInheritance.cpp
+iostream
+-
+cstring
+-
+

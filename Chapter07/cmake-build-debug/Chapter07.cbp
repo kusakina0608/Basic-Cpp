@@ -80,7 +80,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/main.cpp">
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/DerivCreOrder.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/DerivDestOrder.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/DestModel.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/EmployeeManager1.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/HASComposite.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/HASInheritance.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/ISAInheritance.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/ProtectedHeri.cpp">
+			<Option target="Chapter07"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/UnivStudentInheri.cpp">
 			<Option target="Chapter07"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter07/CMakeLists.txt">

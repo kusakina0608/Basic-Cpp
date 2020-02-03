@@ -123,32 +123,248 @@ Chapter07/fast:
 	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/build
 .PHONY : Chapter07/fast
 
-main.o: main.cpp.o
+DerivCreOrder.o: DerivCreOrder.cpp.o
 
-.PHONY : main.o
+.PHONY : DerivCreOrder.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/main.cpp.o
-.PHONY : main.cpp.o
+DerivCreOrder.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DerivCreOrder.cpp.o
+.PHONY : DerivCreOrder.cpp.o
 
-main.i: main.cpp.i
+DerivCreOrder.i: DerivCreOrder.cpp.i
 
-.PHONY : main.i
+.PHONY : DerivCreOrder.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/main.cpp.i
-.PHONY : main.cpp.i
+DerivCreOrder.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DerivCreOrder.cpp.i
+.PHONY : DerivCreOrder.cpp.i
 
-main.s: main.cpp.s
+DerivCreOrder.s: DerivCreOrder.cpp.s
 
-.PHONY : main.s
+.PHONY : DerivCreOrder.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/main.cpp.s
-.PHONY : main.cpp.s
+DerivCreOrder.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DerivCreOrder.cpp.s
+.PHONY : DerivCreOrder.cpp.s
+
+DerivDestOrder.o: DerivDestOrder.cpp.o
+
+.PHONY : DerivDestOrder.o
+
+# target to build an object file
+DerivDestOrder.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DerivDestOrder.cpp.o
+.PHONY : DerivDestOrder.cpp.o
+
+DerivDestOrder.i: DerivDestOrder.cpp.i
+
+.PHONY : DerivDestOrder.i
+
+# target to preprocess a source file
+DerivDestOrder.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DerivDestOrder.cpp.i
+.PHONY : DerivDestOrder.cpp.i
+
+DerivDestOrder.s: DerivDestOrder.cpp.s
+
+.PHONY : DerivDestOrder.s
+
+# target to generate assembly for a file
+DerivDestOrder.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DerivDestOrder.cpp.s
+.PHONY : DerivDestOrder.cpp.s
+
+DestModel.o: DestModel.cpp.o
+
+.PHONY : DestModel.o
+
+# target to build an object file
+DestModel.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DestModel.cpp.o
+.PHONY : DestModel.cpp.o
+
+DestModel.i: DestModel.cpp.i
+
+.PHONY : DestModel.i
+
+# target to preprocess a source file
+DestModel.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DestModel.cpp.i
+.PHONY : DestModel.cpp.i
+
+DestModel.s: DestModel.cpp.s
+
+.PHONY : DestModel.s
+
+# target to generate assembly for a file
+DestModel.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/DestModel.cpp.s
+.PHONY : DestModel.cpp.s
+
+EmployeeManager1.o: EmployeeManager1.cpp.o
+
+.PHONY : EmployeeManager1.o
+
+# target to build an object file
+EmployeeManager1.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/EmployeeManager1.cpp.o
+.PHONY : EmployeeManager1.cpp.o
+
+EmployeeManager1.i: EmployeeManager1.cpp.i
+
+.PHONY : EmployeeManager1.i
+
+# target to preprocess a source file
+EmployeeManager1.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/EmployeeManager1.cpp.i
+.PHONY : EmployeeManager1.cpp.i
+
+EmployeeManager1.s: EmployeeManager1.cpp.s
+
+.PHONY : EmployeeManager1.s
+
+# target to generate assembly for a file
+EmployeeManager1.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/EmployeeManager1.cpp.s
+.PHONY : EmployeeManager1.cpp.s
+
+HASComposite.o: HASComposite.cpp.o
+
+.PHONY : HASComposite.o
+
+# target to build an object file
+HASComposite.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/HASComposite.cpp.o
+.PHONY : HASComposite.cpp.o
+
+HASComposite.i: HASComposite.cpp.i
+
+.PHONY : HASComposite.i
+
+# target to preprocess a source file
+HASComposite.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/HASComposite.cpp.i
+.PHONY : HASComposite.cpp.i
+
+HASComposite.s: HASComposite.cpp.s
+
+.PHONY : HASComposite.s
+
+# target to generate assembly for a file
+HASComposite.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/HASComposite.cpp.s
+.PHONY : HASComposite.cpp.s
+
+HASInheritance.o: HASInheritance.cpp.o
+
+.PHONY : HASInheritance.o
+
+# target to build an object file
+HASInheritance.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/HASInheritance.cpp.o
+.PHONY : HASInheritance.cpp.o
+
+HASInheritance.i: HASInheritance.cpp.i
+
+.PHONY : HASInheritance.i
+
+# target to preprocess a source file
+HASInheritance.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/HASInheritance.cpp.i
+.PHONY : HASInheritance.cpp.i
+
+HASInheritance.s: HASInheritance.cpp.s
+
+.PHONY : HASInheritance.s
+
+# target to generate assembly for a file
+HASInheritance.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/HASInheritance.cpp.s
+.PHONY : HASInheritance.cpp.s
+
+ISAInheritance.o: ISAInheritance.cpp.o
+
+.PHONY : ISAInheritance.o
+
+# target to build an object file
+ISAInheritance.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/ISAInheritance.cpp.o
+.PHONY : ISAInheritance.cpp.o
+
+ISAInheritance.i: ISAInheritance.cpp.i
+
+.PHONY : ISAInheritance.i
+
+# target to preprocess a source file
+ISAInheritance.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/ISAInheritance.cpp.i
+.PHONY : ISAInheritance.cpp.i
+
+ISAInheritance.s: ISAInheritance.cpp.s
+
+.PHONY : ISAInheritance.s
+
+# target to generate assembly for a file
+ISAInheritance.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/ISAInheritance.cpp.s
+.PHONY : ISAInheritance.cpp.s
+
+ProtectedHeri.o: ProtectedHeri.cpp.o
+
+.PHONY : ProtectedHeri.o
+
+# target to build an object file
+ProtectedHeri.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/ProtectedHeri.cpp.o
+.PHONY : ProtectedHeri.cpp.o
+
+ProtectedHeri.i: ProtectedHeri.cpp.i
+
+.PHONY : ProtectedHeri.i
+
+# target to preprocess a source file
+ProtectedHeri.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/ProtectedHeri.cpp.i
+.PHONY : ProtectedHeri.cpp.i
+
+ProtectedHeri.s: ProtectedHeri.cpp.s
+
+.PHONY : ProtectedHeri.s
+
+# target to generate assembly for a file
+ProtectedHeri.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/ProtectedHeri.cpp.s
+.PHONY : ProtectedHeri.cpp.s
+
+UnivStudentInheri.o: UnivStudentInheri.cpp.o
+
+.PHONY : UnivStudentInheri.o
+
+# target to build an object file
+UnivStudentInheri.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/UnivStudentInheri.cpp.o
+.PHONY : UnivStudentInheri.cpp.o
+
+UnivStudentInheri.i: UnivStudentInheri.cpp.i
+
+.PHONY : UnivStudentInheri.i
+
+# target to preprocess a source file
+UnivStudentInheri.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/UnivStudentInheri.cpp.i
+.PHONY : UnivStudentInheri.cpp.i
+
+UnivStudentInheri.s: UnivStudentInheri.cpp.s
+
+.PHONY : UnivStudentInheri.s
+
+# target to generate assembly for a file
+UnivStudentInheri.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter07.dir/build.make CMakeFiles/Chapter07.dir/UnivStudentInheri.cpp.s
+.PHONY : UnivStudentInheri.cpp.s
 
 # Help Target
 help:
@@ -159,9 +375,33 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Chapter07"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... DerivCreOrder.o"
+	@echo "... DerivCreOrder.i"
+	@echo "... DerivCreOrder.s"
+	@echo "... DerivDestOrder.o"
+	@echo "... DerivDestOrder.i"
+	@echo "... DerivDestOrder.s"
+	@echo "... DestModel.o"
+	@echo "... DestModel.i"
+	@echo "... DestModel.s"
+	@echo "... EmployeeManager1.o"
+	@echo "... EmployeeManager1.i"
+	@echo "... EmployeeManager1.s"
+	@echo "... HASComposite.o"
+	@echo "... HASComposite.i"
+	@echo "... HASComposite.s"
+	@echo "... HASInheritance.o"
+	@echo "... HASInheritance.i"
+	@echo "... HASInheritance.s"
+	@echo "... ISAInheritance.o"
+	@echo "... ISAInheritance.i"
+	@echo "... ISAInheritance.s"
+	@echo "... ProtectedHeri.o"
+	@echo "... ProtectedHeri.i"
+	@echo "... ProtectedHeri.s"
+	@echo "... UnivStudentInheri.o"
+	@echo "... UnivStudentInheri.i"
+	@echo "... UnivStudentInheri.s"
 .PHONY : help
 
 

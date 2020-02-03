@@ -1,5 +1,13 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Chapter07.dir/main.cpp.o"
+  "CMakeFiles/Chapter07.dir/DerivCreOrder.cpp.o"
+  "CMakeFiles/Chapter07.dir/DerivDestOrder.cpp.o"
+  "CMakeFiles/Chapter07.dir/DestModel.cpp.o"
+  "CMakeFiles/Chapter07.dir/EmployeeManager1.cpp.o"
+  "CMakeFiles/Chapter07.dir/HASComposite.cpp.o"
+  "CMakeFiles/Chapter07.dir/HASInheritance.cpp.o"
+  "CMakeFiles/Chapter07.dir/ISAInheritance.cpp.o"
+  "CMakeFiles/Chapter07.dir/ProtectedHeri.cpp.o"
+  "CMakeFiles/Chapter07.dir/UnivStudentInheri.cpp.o"
   "Chapter07"
   "Chapter07.pdb"
 )
