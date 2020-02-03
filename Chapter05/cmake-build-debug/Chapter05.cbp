@@ -83,6 +83,21 @@
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter05/ClassInit.cpp">
 			<Option target="Chapter05"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter05/IKnowTempObj.cpp">
+			<Option target="Chapter05"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter05/PassObjCopycon.cpp">
+			<Option target="Chapter05"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjCopycon.cpp">
+			<Option target="Chapter05"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjDeadTime.cpp">
+			<Option target="Chapter05"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter05/ShallowCopyError.cpp">
+			<Option target="Chapter05"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter05/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

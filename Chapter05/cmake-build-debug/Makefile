@@ -150,6 +150,141 @@ ClassInit.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ClassInit.cpp.s
 .PHONY : ClassInit.cpp.s
 
+IKnowTempObj.o: IKnowTempObj.cpp.o
+
+.PHONY : IKnowTempObj.o
+
+# target to build an object file
+IKnowTempObj.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o
+.PHONY : IKnowTempObj.cpp.o
+
+IKnowTempObj.i: IKnowTempObj.cpp.i
+
+.PHONY : IKnowTempObj.i
+
+# target to preprocess a source file
+IKnowTempObj.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.i
+.PHONY : IKnowTempObj.cpp.i
+
+IKnowTempObj.s: IKnowTempObj.cpp.s
+
+.PHONY : IKnowTempObj.s
+
+# target to generate assembly for a file
+IKnowTempObj.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.s
+.PHONY : IKnowTempObj.cpp.s
+
+PassObjCopycon.o: PassObjCopycon.cpp.o
+
+.PHONY : PassObjCopycon.o
+
+# target to build an object file
+PassObjCopycon.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o
+.PHONY : PassObjCopycon.cpp.o
+
+PassObjCopycon.i: PassObjCopycon.cpp.i
+
+.PHONY : PassObjCopycon.i
+
+# target to preprocess a source file
+PassObjCopycon.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.i
+.PHONY : PassObjCopycon.cpp.i
+
+PassObjCopycon.s: PassObjCopycon.cpp.s
+
+.PHONY : PassObjCopycon.s
+
+# target to generate assembly for a file
+PassObjCopycon.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.s
+.PHONY : PassObjCopycon.cpp.s
+
+ReturnObjCopycon.o: ReturnObjCopycon.cpp.o
+
+.PHONY : ReturnObjCopycon.o
+
+# target to build an object file
+ReturnObjCopycon.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o
+.PHONY : ReturnObjCopycon.cpp.o
+
+ReturnObjCopycon.i: ReturnObjCopycon.cpp.i
+
+.PHONY : ReturnObjCopycon.i
+
+# target to preprocess a source file
+ReturnObjCopycon.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.i
+.PHONY : ReturnObjCopycon.cpp.i
+
+ReturnObjCopycon.s: ReturnObjCopycon.cpp.s
+
+.PHONY : ReturnObjCopycon.s
+
+# target to generate assembly for a file
+ReturnObjCopycon.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.s
+.PHONY : ReturnObjCopycon.cpp.s
+
+ReturnObjDeadTime.o: ReturnObjDeadTime.cpp.o
+
+.PHONY : ReturnObjDeadTime.o
+
+# target to build an object file
+ReturnObjDeadTime.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o
+.PHONY : ReturnObjDeadTime.cpp.o
+
+ReturnObjDeadTime.i: ReturnObjDeadTime.cpp.i
+
+.PHONY : ReturnObjDeadTime.i
+
+# target to preprocess a source file
+ReturnObjDeadTime.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.i
+.PHONY : ReturnObjDeadTime.cpp.i
+
+ReturnObjDeadTime.s: ReturnObjDeadTime.cpp.s
+
+.PHONY : ReturnObjDeadTime.s
+
+# target to generate assembly for a file
+ReturnObjDeadTime.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.s
+.PHONY : ReturnObjDeadTime.cpp.s
+
+ShallowCopyError.o: ShallowCopyError.cpp.o
+
+.PHONY : ShallowCopyError.o
+
+# target to build an object file
+ShallowCopyError.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o
+.PHONY : ShallowCopyError.cpp.o
+
+ShallowCopyError.i: ShallowCopyError.cpp.i
+
+.PHONY : ShallowCopyError.i
+
+# target to preprocess a source file
+ShallowCopyError.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.i
+.PHONY : ShallowCopyError.cpp.i
+
+ShallowCopyError.s: ShallowCopyError.cpp.s
+
+.PHONY : ShallowCopyError.s
+
+# target to generate assembly for a file
+ShallowCopyError.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter05.dir/build.make CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.s
+.PHONY : ShallowCopyError.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +297,21 @@ help:
 	@echo "... ClassInit.o"
 	@echo "... ClassInit.i"
 	@echo "... ClassInit.s"
+	@echo "... IKnowTempObj.o"
+	@echo "... IKnowTempObj.i"
+	@echo "... IKnowTempObj.s"
+	@echo "... PassObjCopycon.o"
+	@echo "... PassObjCopycon.i"
+	@echo "... PassObjCopycon.s"
+	@echo "... ReturnObjCopycon.o"
+	@echo "... ReturnObjCopycon.i"
+	@echo "... ReturnObjCopycon.s"
+	@echo "... ReturnObjDeadTime.o"
+	@echo "... ReturnObjDeadTime.i"
+	@echo "... ReturnObjDeadTime.s"
+	@echo "... ShallowCopyError.o"
+	@echo "... ShallowCopyError.i"
+	@echo "... ShallowCopyError.s"
 .PHONY : help
 
 

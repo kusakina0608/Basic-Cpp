@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter06/ConstStaticMember.cpp
+iostream
+-
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter06/Mutable.cpp
+iostream
+-
+

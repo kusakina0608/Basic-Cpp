@@ -3,3 +3,13 @@
 
 CMakeFiles/Chapter05.dir/ClassInit.cpp.o: ../ClassInit.cpp
 
+CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o: ../IKnowTempObj.cpp
+
+CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o: ../PassObjCopycon.cpp
+
+CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o: ../ReturnObjCopycon.cpp
+
+CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o: ../ReturnObjDeadTime.cpp
+
+CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o: ../ShallowCopyError.cpp
+

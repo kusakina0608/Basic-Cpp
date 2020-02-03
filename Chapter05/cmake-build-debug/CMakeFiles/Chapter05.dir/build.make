@@ -70,17 +70,92 @@ CMakeFiles/Chapter05.dir/ClassInit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter05.dir/ClassInit.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ClassInit.cpp -o CMakeFiles/Chapter05.dir/ClassInit.cpp.s
 
+CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o: CMakeFiles/Chapter05.dir/flags.make
+CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o: ../ShallowCopyError.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter05/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ShallowCopyError.cpp
+
+CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ShallowCopyError.cpp > CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.i
+
+CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ShallowCopyError.cpp -o CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.s
+
+CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o: CMakeFiles/Chapter05.dir/flags.make
+CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o: ../PassObjCopycon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter05/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter05/PassObjCopycon.cpp
+
+CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter05/PassObjCopycon.cpp > CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.i
+
+CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter05/PassObjCopycon.cpp -o CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.s
+
+CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o: CMakeFiles/Chapter05.dir/flags.make
+CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o: ../ReturnObjCopycon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter05/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjCopycon.cpp
+
+CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjCopycon.cpp > CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.i
+
+CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjCopycon.cpp -o CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.s
+
+CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o: CMakeFiles/Chapter05.dir/flags.make
+CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o: ../IKnowTempObj.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter05/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter05/IKnowTempObj.cpp
+
+CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter05/IKnowTempObj.cpp > CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.i
+
+CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter05/IKnowTempObj.cpp -o CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.s
+
+CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o: CMakeFiles/Chapter05.dir/flags.make
+CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o: ../ReturnObjDeadTime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter05/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjDeadTime.cpp
+
+CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjDeadTime.cpp > CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.i
+
+CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjDeadTime.cpp -o CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.s
+
 # Object files for target Chapter05
 Chapter05_OBJECTS = \
-"CMakeFiles/Chapter05.dir/ClassInit.cpp.o"
+"CMakeFiles/Chapter05.dir/ClassInit.cpp.o" \
+"CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o" \
+"CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o" \
+"CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o" \
+"CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o" \
+"CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o"
 
 # External object files for target Chapter05
 Chapter05_EXTERNAL_OBJECTS =
 
 Chapter05: CMakeFiles/Chapter05.dir/ClassInit.cpp.o
+Chapter05: CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o
+Chapter05: CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o
+Chapter05: CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o
+Chapter05: CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o
+Chapter05: CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o
 Chapter05: CMakeFiles/Chapter05.dir/build.make
 Chapter05: CMakeFiles/Chapter05.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter05/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Chapter05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter05/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Chapter05"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter05.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

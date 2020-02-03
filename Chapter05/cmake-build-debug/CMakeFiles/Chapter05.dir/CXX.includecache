@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/kina/Documents/GitHub/BasicCpp/Chapter05/ClassInit.cpp
+/Users/kina/Documents/GitHub/BasicCpp/Chapter05/IKnowTempObj.cpp
+iostream
+-
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjDeadTime.cpp
 iostream
 -
 

@@ -3,3 +3,13 @@
 
 CMakeFiles/Chapter05.dir/ClassInit.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ClassInit.cpp
+CMakeFiles/Chapter05.dir/IKnowTempObj.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter05/IKnowTempObj.cpp
+CMakeFiles/Chapter05.dir/PassObjCopycon.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter05/PassObjCopycon.cpp
+CMakeFiles/Chapter05.dir/ReturnObjCopycon.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjCopycon.cpp
+CMakeFiles/Chapter05.dir/ReturnObjDeadTime.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ReturnObjDeadTime.cpp
+CMakeFiles/Chapter05.dir/ShallowCopyError.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter05/ShallowCopyError.cpp

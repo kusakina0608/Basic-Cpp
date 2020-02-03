@@ -1,6 +1,7 @@
 //
 // Created by Kina on 2020/02/03.
 //
+/*
 #include <iostream>
 using namespace std;
 
@@ -28,4 +29,4 @@ int main(void){
     cout<<"생성 및 초기화 직후"<<endl;
     sim2.ShowSimpleData();
     return 0;
-}
+}*/
