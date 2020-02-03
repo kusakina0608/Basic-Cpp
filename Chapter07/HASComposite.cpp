@@ -1,6 +1,7 @@
 //
 // Created by Kina on 2020/02/03.
 //
+/*
 #include <iostream>
 #include <cstring>
 using namespace std;
@@ -52,4 +53,4 @@ int main(void){
     pman2.Shot();
     pman2.PutHandcuff();
     return 0;
-}
+}*/
