@@ -1,6 +1,7 @@
 //
 // Created by Kina on 2020/02/04.
 //
+/*
 #include <iostream>
 using namespace std;
 
@@ -28,4 +29,4 @@ int main(void){
     Number num2=num1+20;
     num2.ShowNumber();
     return 0;
-}
+}*/
