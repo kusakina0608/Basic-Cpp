@@ -1,6 +1,7 @@
 //
 // Created by Kina on 2020/02/04.
 //
+/*
 #include <iostream>
 using namespace std;
 
@@ -38,4 +39,4 @@ int main(void){
     fref.FirstFunc();
     fref.SimpleFunc();
     return 0;
-}
+}*/
