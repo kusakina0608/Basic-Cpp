@@ -3,14 +3,30 @@
 
 CMakeFiles/Chapter11.dir/ArrayClass.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ArrayClass.cpp
+CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ArrayNewDeleteOverloading.cpp
 CMakeFiles/Chapter11.dir/AssignShallowCopyError.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter11/AssignShallowCopyError.cpp
+CMakeFiles/Chapter11.dir/ConvToObject.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToObject.cpp
+CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToPrimitive.cpp
 CMakeFiles/Chapter11.dir/FirstOperationOverloading.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter11/FirstOperationOverloading.cpp
+CMakeFiles/Chapter11.dir/Functor.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/Functor.cpp
 CMakeFiles/Chapter11.dir/ImproveInit.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ImproveInit.cpp
 CMakeFiles/Chapter11.dir/InheritAssignOperation.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter11/InheritAssignOperation.cpp
+CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/NewDeleteOverloading.cpp
+CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/PointerOperatorOverloading.cpp
+CMakeFiles/Chapter11.dir/SmartPointer.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SmartPointer.cpp
+CMakeFiles/Chapter11.dir/SortFunctor.cpp.o
+ /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SortFunctor.cpp
 CMakeFiles/Chapter11.dir/StableConstArrayProb.cpp.o
  /Users/kina/Documents/GitHub/BasicCpp/Chapter11/StableConstArrayProb.cpp
 CMakeFiles/Chapter11.dir/StableConstArraySolu.cpp.o

@@ -150,6 +150,33 @@ ArrayClass.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ArrayClass.cpp.s
 .PHONY : ArrayClass.cpp.s
 
+ArrayNewDeleteOverloading.o: ArrayNewDeleteOverloading.cpp.o
+
+.PHONY : ArrayNewDeleteOverloading.o
+
+# target to build an object file
+ArrayNewDeleteOverloading.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o
+.PHONY : ArrayNewDeleteOverloading.cpp.o
+
+ArrayNewDeleteOverloading.i: ArrayNewDeleteOverloading.cpp.i
+
+.PHONY : ArrayNewDeleteOverloading.i
+
+# target to preprocess a source file
+ArrayNewDeleteOverloading.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.i
+.PHONY : ArrayNewDeleteOverloading.cpp.i
+
+ArrayNewDeleteOverloading.s: ArrayNewDeleteOverloading.cpp.s
+
+.PHONY : ArrayNewDeleteOverloading.s
+
+# target to generate assembly for a file
+ArrayNewDeleteOverloading.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.s
+.PHONY : ArrayNewDeleteOverloading.cpp.s
+
 AssignShallowCopyError.o: AssignShallowCopyError.cpp.o
 
 .PHONY : AssignShallowCopyError.o
@@ -177,6 +204,60 @@ AssignShallowCopyError.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/AssignShallowCopyError.cpp.s
 .PHONY : AssignShallowCopyError.cpp.s
 
+ConvToObject.o: ConvToObject.cpp.o
+
+.PHONY : ConvToObject.o
+
+# target to build an object file
+ConvToObject.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ConvToObject.cpp.o
+.PHONY : ConvToObject.cpp.o
+
+ConvToObject.i: ConvToObject.cpp.i
+
+.PHONY : ConvToObject.i
+
+# target to preprocess a source file
+ConvToObject.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ConvToObject.cpp.i
+.PHONY : ConvToObject.cpp.i
+
+ConvToObject.s: ConvToObject.cpp.s
+
+.PHONY : ConvToObject.s
+
+# target to generate assembly for a file
+ConvToObject.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ConvToObject.cpp.s
+.PHONY : ConvToObject.cpp.s
+
+ConvToPrimitive.o: ConvToPrimitive.cpp.o
+
+.PHONY : ConvToPrimitive.o
+
+# target to build an object file
+ConvToPrimitive.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o
+.PHONY : ConvToPrimitive.cpp.o
+
+ConvToPrimitive.i: ConvToPrimitive.cpp.i
+
+.PHONY : ConvToPrimitive.i
+
+# target to preprocess a source file
+ConvToPrimitive.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.i
+.PHONY : ConvToPrimitive.cpp.i
+
+ConvToPrimitive.s: ConvToPrimitive.cpp.s
+
+.PHONY : ConvToPrimitive.s
+
+# target to generate assembly for a file
+ConvToPrimitive.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.s
+.PHONY : ConvToPrimitive.cpp.s
+
 FirstOperationOverloading.o: FirstOperationOverloading.cpp.o
 
 .PHONY : FirstOperationOverloading.o
@@ -203,6 +284,33 @@ FirstOperationOverloading.s: FirstOperationOverloading.cpp.s
 FirstOperationOverloading.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/FirstOperationOverloading.cpp.s
 .PHONY : FirstOperationOverloading.cpp.s
+
+Functor.o: Functor.cpp.o
+
+.PHONY : Functor.o
+
+# target to build an object file
+Functor.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/Functor.cpp.o
+.PHONY : Functor.cpp.o
+
+Functor.i: Functor.cpp.i
+
+.PHONY : Functor.i
+
+# target to preprocess a source file
+Functor.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/Functor.cpp.i
+.PHONY : Functor.cpp.i
+
+Functor.s: Functor.cpp.s
+
+.PHONY : Functor.s
+
+# target to generate assembly for a file
+Functor.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/Functor.cpp.s
+.PHONY : Functor.cpp.s
 
 ImproveInit.o: ImproveInit.cpp.o
 
@@ -257,6 +365,114 @@ InheritAssignOperation.s: InheritAssignOperation.cpp.s
 InheritAssignOperation.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/InheritAssignOperation.cpp.s
 .PHONY : InheritAssignOperation.cpp.s
+
+NewDeleteOverloading.o: NewDeleteOverloading.cpp.o
+
+.PHONY : NewDeleteOverloading.o
+
+# target to build an object file
+NewDeleteOverloading.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o
+.PHONY : NewDeleteOverloading.cpp.o
+
+NewDeleteOverloading.i: NewDeleteOverloading.cpp.i
+
+.PHONY : NewDeleteOverloading.i
+
+# target to preprocess a source file
+NewDeleteOverloading.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.i
+.PHONY : NewDeleteOverloading.cpp.i
+
+NewDeleteOverloading.s: NewDeleteOverloading.cpp.s
+
+.PHONY : NewDeleteOverloading.s
+
+# target to generate assembly for a file
+NewDeleteOverloading.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.s
+.PHONY : NewDeleteOverloading.cpp.s
+
+PointerOperatorOverloading.o: PointerOperatorOverloading.cpp.o
+
+.PHONY : PointerOperatorOverloading.o
+
+# target to build an object file
+PointerOperatorOverloading.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o
+.PHONY : PointerOperatorOverloading.cpp.o
+
+PointerOperatorOverloading.i: PointerOperatorOverloading.cpp.i
+
+.PHONY : PointerOperatorOverloading.i
+
+# target to preprocess a source file
+PointerOperatorOverloading.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.i
+.PHONY : PointerOperatorOverloading.cpp.i
+
+PointerOperatorOverloading.s: PointerOperatorOverloading.cpp.s
+
+.PHONY : PointerOperatorOverloading.s
+
+# target to generate assembly for a file
+PointerOperatorOverloading.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.s
+.PHONY : PointerOperatorOverloading.cpp.s
+
+SmartPointer.o: SmartPointer.cpp.o
+
+.PHONY : SmartPointer.o
+
+# target to build an object file
+SmartPointer.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/SmartPointer.cpp.o
+.PHONY : SmartPointer.cpp.o
+
+SmartPointer.i: SmartPointer.cpp.i
+
+.PHONY : SmartPointer.i
+
+# target to preprocess a source file
+SmartPointer.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/SmartPointer.cpp.i
+.PHONY : SmartPointer.cpp.i
+
+SmartPointer.s: SmartPointer.cpp.s
+
+.PHONY : SmartPointer.s
+
+# target to generate assembly for a file
+SmartPointer.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/SmartPointer.cpp.s
+.PHONY : SmartPointer.cpp.s
+
+SortFunctor.o: SortFunctor.cpp.o
+
+.PHONY : SortFunctor.o
+
+# target to build an object file
+SortFunctor.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/SortFunctor.cpp.o
+.PHONY : SortFunctor.cpp.o
+
+SortFunctor.i: SortFunctor.cpp.i
+
+.PHONY : SortFunctor.i
+
+# target to preprocess a source file
+SortFunctor.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/SortFunctor.cpp.i
+.PHONY : SortFunctor.cpp.i
+
+SortFunctor.s: SortFunctor.cpp.s
+
+.PHONY : SortFunctor.s
+
+# target to generate assembly for a file
+SortFunctor.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter11.dir/build.make CMakeFiles/Chapter11.dir/SortFunctor.cpp.s
+.PHONY : SortFunctor.cpp.s
 
 StableConstArrayProb.o: StableConstArrayProb.cpp.o
 
@@ -378,18 +594,42 @@ help:
 	@echo "... ArrayClass.o"
 	@echo "... ArrayClass.i"
 	@echo "... ArrayClass.s"
+	@echo "... ArrayNewDeleteOverloading.o"
+	@echo "... ArrayNewDeleteOverloading.i"
+	@echo "... ArrayNewDeleteOverloading.s"
 	@echo "... AssignShallowCopyError.o"
 	@echo "... AssignShallowCopyError.i"
 	@echo "... AssignShallowCopyError.s"
+	@echo "... ConvToObject.o"
+	@echo "... ConvToObject.i"
+	@echo "... ConvToObject.s"
+	@echo "... ConvToPrimitive.o"
+	@echo "... ConvToPrimitive.i"
+	@echo "... ConvToPrimitive.s"
 	@echo "... FirstOperationOverloading.o"
 	@echo "... FirstOperationOverloading.i"
 	@echo "... FirstOperationOverloading.s"
+	@echo "... Functor.o"
+	@echo "... Functor.i"
+	@echo "... Functor.s"
 	@echo "... ImproveInit.o"
 	@echo "... ImproveInit.i"
 	@echo "... ImproveInit.s"
 	@echo "... InheritAssignOperation.o"
 	@echo "... InheritAssignOperation.i"
 	@echo "... InheritAssignOperation.s"
+	@echo "... NewDeleteOverloading.o"
+	@echo "... NewDeleteOverloading.i"
+	@echo "... NewDeleteOverloading.s"
+	@echo "... PointerOperatorOverloading.o"
+	@echo "... PointerOperatorOverloading.i"
+	@echo "... PointerOperatorOverloading.s"
+	@echo "... SmartPointer.o"
+	@echo "... SmartPointer.i"
+	@echo "... SmartPointer.s"
+	@echo "... SortFunctor.o"
+	@echo "... SortFunctor.i"
+	@echo "... SortFunctor.s"
 	@echo "... StableConstArrayProb.o"
 	@echo "... StableConstArrayProb.i"
 	@echo "... StableConstArrayProb.s"

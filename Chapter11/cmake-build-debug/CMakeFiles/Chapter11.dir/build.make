@@ -174,6 +174,110 @@ CMakeFiles/Chapter11.dir/StablePointPtrArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/StablePointPtrArray.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/StablePointPtrArray.cpp -o CMakeFiles/Chapter11.dir/StablePointPtrArray.cpp.s
 
+CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o: ../NewDeleteOverloading.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/NewDeleteOverloading.cpp
+
+CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/NewDeleteOverloading.cpp > CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.i
+
+CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/NewDeleteOverloading.cpp -o CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.s
+
+CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o: ../ArrayNewDeleteOverloading.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ArrayNewDeleteOverloading.cpp
+
+CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ArrayNewDeleteOverloading.cpp > CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.i
+
+CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ArrayNewDeleteOverloading.cpp -o CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.s
+
+CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o: ../PointerOperatorOverloading.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/PointerOperatorOverloading.cpp
+
+CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/PointerOperatorOverloading.cpp > CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.i
+
+CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/PointerOperatorOverloading.cpp -o CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.s
+
+CMakeFiles/Chapter11.dir/SmartPointer.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/SmartPointer.cpp.o: ../SmartPointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Chapter11.dir/SmartPointer.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/SmartPointer.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SmartPointer.cpp
+
+CMakeFiles/Chapter11.dir/SmartPointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/SmartPointer.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SmartPointer.cpp > CMakeFiles/Chapter11.dir/SmartPointer.cpp.i
+
+CMakeFiles/Chapter11.dir/SmartPointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/SmartPointer.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SmartPointer.cpp -o CMakeFiles/Chapter11.dir/SmartPointer.cpp.s
+
+CMakeFiles/Chapter11.dir/Functor.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/Functor.cpp.o: ../Functor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Chapter11.dir/Functor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/Functor.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/Functor.cpp
+
+CMakeFiles/Chapter11.dir/Functor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/Functor.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/Functor.cpp > CMakeFiles/Chapter11.dir/Functor.cpp.i
+
+CMakeFiles/Chapter11.dir/Functor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/Functor.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/Functor.cpp -o CMakeFiles/Chapter11.dir/Functor.cpp.s
+
+CMakeFiles/Chapter11.dir/SortFunctor.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/SortFunctor.cpp.o: ../SortFunctor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Chapter11.dir/SortFunctor.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/SortFunctor.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SortFunctor.cpp
+
+CMakeFiles/Chapter11.dir/SortFunctor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/SortFunctor.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SortFunctor.cpp > CMakeFiles/Chapter11.dir/SortFunctor.cpp.i
+
+CMakeFiles/Chapter11.dir/SortFunctor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/SortFunctor.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/SortFunctor.cpp -o CMakeFiles/Chapter11.dir/SortFunctor.cpp.s
+
+CMakeFiles/Chapter11.dir/ConvToObject.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/ConvToObject.cpp.o: ../ConvToObject.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Chapter11.dir/ConvToObject.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/ConvToObject.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToObject.cpp
+
+CMakeFiles/Chapter11.dir/ConvToObject.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/ConvToObject.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToObject.cpp > CMakeFiles/Chapter11.dir/ConvToObject.cpp.i
+
+CMakeFiles/Chapter11.dir/ConvToObject.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/ConvToObject.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToObject.cpp -o CMakeFiles/Chapter11.dir/ConvToObject.cpp.s
+
+CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o: CMakeFiles/Chapter11.dir/flags.make
+CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o: ../ConvToPrimitive.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToPrimitive.cpp
+
+CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToPrimitive.cpp > CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.i
+
+CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToPrimitive.cpp -o CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.s
+
 # Object files for target Chapter11
 Chapter11_OBJECTS = \
 "CMakeFiles/Chapter11.dir/FirstOperationOverloading.cpp.o" \
@@ -184,7 +288,15 @@ Chapter11_OBJECTS = \
 "CMakeFiles/Chapter11.dir/StableConstArrayProb.cpp.o" \
 "CMakeFiles/Chapter11.dir/StableConstArraySolu.cpp.o" \
 "CMakeFiles/Chapter11.dir/StablePointObjArray.cpp.o" \
-"CMakeFiles/Chapter11.dir/StablePointPtrArray.cpp.o"
+"CMakeFiles/Chapter11.dir/StablePointPtrArray.cpp.o" \
+"CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o" \
+"CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o" \
+"CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o" \
+"CMakeFiles/Chapter11.dir/SmartPointer.cpp.o" \
+"CMakeFiles/Chapter11.dir/Functor.cpp.o" \
+"CMakeFiles/Chapter11.dir/SortFunctor.cpp.o" \
+"CMakeFiles/Chapter11.dir/ConvToObject.cpp.o" \
+"CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o"
 
 # External object files for target Chapter11
 Chapter11_EXTERNAL_OBJECTS =
@@ -198,9 +310,17 @@ Chapter11: CMakeFiles/Chapter11.dir/StableConstArrayProb.cpp.o
 Chapter11: CMakeFiles/Chapter11.dir/StableConstArraySolu.cpp.o
 Chapter11: CMakeFiles/Chapter11.dir/StablePointObjArray.cpp.o
 Chapter11: CMakeFiles/Chapter11.dir/StablePointPtrArray.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/SmartPointer.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/Functor.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/SortFunctor.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/ConvToObject.cpp.o
+Chapter11: CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o
 Chapter11: CMakeFiles/Chapter11.dir/build.make
 Chapter11: CMakeFiles/Chapter11.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable Chapter11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter11/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable Chapter11"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter11.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

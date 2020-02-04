@@ -3,13 +3,29 @@
 
 CMakeFiles/Chapter11.dir/ArrayClass.cpp.o: ../ArrayClass.cpp
 
+CMakeFiles/Chapter11.dir/ArrayNewDeleteOverloading.cpp.o: ../ArrayNewDeleteOverloading.cpp
+
 CMakeFiles/Chapter11.dir/AssignShallowCopyError.cpp.o: ../AssignShallowCopyError.cpp
 
+CMakeFiles/Chapter11.dir/ConvToObject.cpp.o: ../ConvToObject.cpp
+
+CMakeFiles/Chapter11.dir/ConvToPrimitive.cpp.o: ../ConvToPrimitive.cpp
+
 CMakeFiles/Chapter11.dir/FirstOperationOverloading.cpp.o: ../FirstOperationOverloading.cpp
+
+CMakeFiles/Chapter11.dir/Functor.cpp.o: ../Functor.cpp
 
 CMakeFiles/Chapter11.dir/ImproveInit.cpp.o: ../ImproveInit.cpp
 
 CMakeFiles/Chapter11.dir/InheritAssignOperation.cpp.o: ../InheritAssignOperation.cpp
+
+CMakeFiles/Chapter11.dir/NewDeleteOverloading.cpp.o: ../NewDeleteOverloading.cpp
+
+CMakeFiles/Chapter11.dir/PointerOperatorOverloading.cpp.o: ../PointerOperatorOverloading.cpp
+
+CMakeFiles/Chapter11.dir/SmartPointer.cpp.o: ../SmartPointer.cpp
+
+CMakeFiles/Chapter11.dir/SortFunctor.cpp.o: ../SortFunctor.cpp
 
 CMakeFiles/Chapter11.dir/StableConstArrayProb.cpp.o: ../StableConstArrayProb.cpp
 

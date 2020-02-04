@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/kina/Documents/GitHub/BasicCpp/Chapter11/StablePointPtrArray.cpp
+/Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToObject.cpp
 iostream
 -
-cstdlib
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToPrimitive.cpp
+iostream
 -
 

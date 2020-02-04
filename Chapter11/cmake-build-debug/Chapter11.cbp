@@ -83,16 +83,40 @@
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/ArrayClass.cpp">
 			<Option target="Chapter11"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/ArrayNewDeleteOverloading.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/AssignShallowCopyError.cpp">
 			<Option target="Chapter11"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToObject.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/ConvToPrimitive.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/FirstOperationOverloading.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/Functor.cpp">
 			<Option target="Chapter11"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/ImproveInit.cpp">
 			<Option target="Chapter11"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/InheritAssignOperation.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/NewDeleteOverloading.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/PointerOperatorOverloading.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/SmartPointer.cpp">
+			<Option target="Chapter11"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/SortFunctor.cpp">
 			<Option target="Chapter11"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter11/StableConstArrayProb.cpp">
