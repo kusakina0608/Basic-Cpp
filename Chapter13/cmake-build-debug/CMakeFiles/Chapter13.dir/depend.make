@@ -3,7 +3,14 @@
 
 CMakeFiles/Chapter13.dir/AddFunctionTemplete.cpp.o: ../AddFunctionTemplete.cpp
 
+CMakeFiles/Chapter13.dir/BoundArrayMain.cpp.o: ../ArrayTemplate.h
+CMakeFiles/Chapter13.dir/BoundArrayMain.cpp.o: ../BoundArrayMain.cpp
+CMakeFiles/Chapter13.dir/BoundArrayMain.cpp.o: ../Point.h
+
 CMakeFiles/Chapter13.dir/NeedSpecialFunctionTemplate.cpp.o: ../NeedSpecialFunctionTemplate.cpp
+
+CMakeFiles/Chapter13.dir/Point.cpp.o: ../Point.cpp
+CMakeFiles/Chapter13.dir/Point.cpp.o: ../Point.h
 
 CMakeFiles/Chapter13.dir/PointClassTemplate.cpp.o: ../PointClassTemplate.cpp
 

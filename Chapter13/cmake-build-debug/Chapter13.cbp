@@ -83,7 +83,19 @@
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter13/AddFunctionTemplete.cpp">
 			<Option target="Chapter13"/>
 		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter13/ArrayTemplate.h">
+			<Option target="Chapter13"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter13/BoundArrayMain.cpp">
+			<Option target="Chapter13"/>
+		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter13/NeedSpecialFunctionTemplate.cpp">
+			<Option target="Chapter13"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter13/Point.cpp">
+			<Option target="Chapter13"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter13/Point.h">
 			<Option target="Chapter13"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter13/PointClassTemplate.cpp">

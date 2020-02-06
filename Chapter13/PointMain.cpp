@@ -1,6 +1,7 @@
 //
 // Created by Kina on 2020/02/06.
 //
+/*
 #include <iostream>
 #include "PointTemplate.h"
 #include "PointTemplate.cpp"
@@ -16,4 +17,4 @@ int main(void){
     Point<char> pos3('P', 'F');
     pos3.ShowPosition();
     return 0;
-}
+}*/

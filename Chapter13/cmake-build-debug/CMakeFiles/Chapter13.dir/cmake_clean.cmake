@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Chapter13.dir/AddFunctionTemplete.cpp.o"
+  "CMakeFiles/Chapter13.dir/BoundArrayMain.cpp.o"
   "CMakeFiles/Chapter13.dir/NeedSpecialFunctionTemplate.cpp.o"
+  "CMakeFiles/Chapter13.dir/Point.cpp.o"
   "CMakeFiles/Chapter13.dir/PointClassTemplate.cpp.o"
   "CMakeFiles/Chapter13.dir/PointClassTemplateFuncDef.cpp.o"
   "CMakeFiles/Chapter13.dir/PointMain.cpp.o"

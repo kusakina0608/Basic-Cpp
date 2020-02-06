@@ -150,6 +150,33 @@ AddFunctionTemplete.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/AddFunctionTemplete.cpp.s
 .PHONY : AddFunctionTemplete.cpp.s
 
+BoundArrayMain.o: BoundArrayMain.cpp.o
+
+.PHONY : BoundArrayMain.o
+
+# target to build an object file
+BoundArrayMain.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/BoundArrayMain.cpp.o
+.PHONY : BoundArrayMain.cpp.o
+
+BoundArrayMain.i: BoundArrayMain.cpp.i
+
+.PHONY : BoundArrayMain.i
+
+# target to preprocess a source file
+BoundArrayMain.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/BoundArrayMain.cpp.i
+.PHONY : BoundArrayMain.cpp.i
+
+BoundArrayMain.s: BoundArrayMain.cpp.s
+
+.PHONY : BoundArrayMain.s
+
+# target to generate assembly for a file
+BoundArrayMain.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/BoundArrayMain.cpp.s
+.PHONY : BoundArrayMain.cpp.s
+
 NeedSpecialFunctionTemplate.o: NeedSpecialFunctionTemplate.cpp.o
 
 .PHONY : NeedSpecialFunctionTemplate.o
@@ -176,6 +203,33 @@ NeedSpecialFunctionTemplate.s: NeedSpecialFunctionTemplate.cpp.s
 NeedSpecialFunctionTemplate.cpp.s:
 	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/NeedSpecialFunctionTemplate.cpp.s
 .PHONY : NeedSpecialFunctionTemplate.cpp.s
+
+Point.o: Point.cpp.o
+
+.PHONY : Point.o
+
+# target to build an object file
+Point.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/Point.cpp.o
+.PHONY : Point.cpp.o
+
+Point.i: Point.cpp.i
+
+.PHONY : Point.i
+
+# target to preprocess a source file
+Point.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/Point.cpp.i
+.PHONY : Point.cpp.i
+
+Point.s: Point.cpp.s
+
+.PHONY : Point.s
+
+# target to generate assembly for a file
+Point.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter13.dir/build.make CMakeFiles/Chapter13.dir/Point.cpp.s
+.PHONY : Point.cpp.s
 
 PointClassTemplate.o: PointClassTemplate.cpp.o
 
@@ -378,9 +432,15 @@ help:
 	@echo "... AddFunctionTemplete.o"
 	@echo "... AddFunctionTemplete.i"
 	@echo "... AddFunctionTemplete.s"
+	@echo "... BoundArrayMain.o"
+	@echo "... BoundArrayMain.i"
+	@echo "... BoundArrayMain.s"
 	@echo "... NeedSpecialFunctionTemplate.o"
 	@echo "... NeedSpecialFunctionTemplate.i"
 	@echo "... NeedSpecialFunctionTemplate.s"
+	@echo "... Point.o"
+	@echo "... Point.i"
+	@echo "... Point.s"
 	@echo "... PointClassTemplate.o"
 	@echo "... PointClassTemplate.i"
 	@echo "... PointClassTemplate.s"
