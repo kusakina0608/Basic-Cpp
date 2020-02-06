@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter13/PointMain.cpp
+iostream
+-
+PointTemplate.h
+/Users/kina/Documents/GitHub/BasicCpp/Chapter13/PointTemplate.h
+PointTemplate.cpp
+/Users/kina/Documents/GitHub/BasicCpp/Chapter13/PointTemplate.cpp
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter13/PointTemplate.cpp
+iostream
+-
+PointTemplate.h
+/Users/kina/Documents/GitHub/BasicCpp/Chapter13/PointTemplate.h
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter13/PointTemplate.h
+
