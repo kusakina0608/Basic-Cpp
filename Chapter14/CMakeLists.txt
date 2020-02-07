@@ -3,4 +3,4 @@ project(Chapter14)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Chapter14 main.cpp)
+add_executable(Chapter14 PointTemplate.h ArrayTemplate.h BoundArrayMain.cpp PointTemplateFriendFunction.cpp ClassTemplateSpecialization.cpp ClassTemplatePartialSpecialization.cpp NonTypeTemplateParam.cpp TemplateParamDefaultValue.cpp FunctionTemplateStaticVar.cpp ClassTemplateStaticMem.cpp)

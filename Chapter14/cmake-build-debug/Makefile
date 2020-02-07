@@ -123,32 +123,221 @@ Chapter14/fast:
 	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/build
 .PHONY : Chapter14/fast
 
-main.o: main.cpp.o
+BoundArrayMain.o: BoundArrayMain.cpp.o
 
-.PHONY : main.o
+.PHONY : BoundArrayMain.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/main.cpp.o
-.PHONY : main.cpp.o
+BoundArrayMain.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o
+.PHONY : BoundArrayMain.cpp.o
 
-main.i: main.cpp.i
+BoundArrayMain.i: BoundArrayMain.cpp.i
 
-.PHONY : main.i
+.PHONY : BoundArrayMain.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/main.cpp.i
-.PHONY : main.cpp.i
+BoundArrayMain.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.i
+.PHONY : BoundArrayMain.cpp.i
 
-main.s: main.cpp.s
+BoundArrayMain.s: BoundArrayMain.cpp.s
 
-.PHONY : main.s
+.PHONY : BoundArrayMain.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/main.cpp.s
-.PHONY : main.cpp.s
+BoundArrayMain.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.s
+.PHONY : BoundArrayMain.cpp.s
+
+ClassTemplatePartialSpecialization.o: ClassTemplatePartialSpecialization.cpp.o
+
+.PHONY : ClassTemplatePartialSpecialization.o
+
+# target to build an object file
+ClassTemplatePartialSpecialization.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o
+.PHONY : ClassTemplatePartialSpecialization.cpp.o
+
+ClassTemplatePartialSpecialization.i: ClassTemplatePartialSpecialization.cpp.i
+
+.PHONY : ClassTemplatePartialSpecialization.i
+
+# target to preprocess a source file
+ClassTemplatePartialSpecialization.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.i
+.PHONY : ClassTemplatePartialSpecialization.cpp.i
+
+ClassTemplatePartialSpecialization.s: ClassTemplatePartialSpecialization.cpp.s
+
+.PHONY : ClassTemplatePartialSpecialization.s
+
+# target to generate assembly for a file
+ClassTemplatePartialSpecialization.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.s
+.PHONY : ClassTemplatePartialSpecialization.cpp.s
+
+ClassTemplateSpecialization.o: ClassTemplateSpecialization.cpp.o
+
+.PHONY : ClassTemplateSpecialization.o
+
+# target to build an object file
+ClassTemplateSpecialization.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o
+.PHONY : ClassTemplateSpecialization.cpp.o
+
+ClassTemplateSpecialization.i: ClassTemplateSpecialization.cpp.i
+
+.PHONY : ClassTemplateSpecialization.i
+
+# target to preprocess a source file
+ClassTemplateSpecialization.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.i
+.PHONY : ClassTemplateSpecialization.cpp.i
+
+ClassTemplateSpecialization.s: ClassTemplateSpecialization.cpp.s
+
+.PHONY : ClassTemplateSpecialization.s
+
+# target to generate assembly for a file
+ClassTemplateSpecialization.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.s
+.PHONY : ClassTemplateSpecialization.cpp.s
+
+ClassTemplateStaticMem.o: ClassTemplateStaticMem.cpp.o
+
+.PHONY : ClassTemplateStaticMem.o
+
+# target to build an object file
+ClassTemplateStaticMem.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o
+.PHONY : ClassTemplateStaticMem.cpp.o
+
+ClassTemplateStaticMem.i: ClassTemplateStaticMem.cpp.i
+
+.PHONY : ClassTemplateStaticMem.i
+
+# target to preprocess a source file
+ClassTemplateStaticMem.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.i
+.PHONY : ClassTemplateStaticMem.cpp.i
+
+ClassTemplateStaticMem.s: ClassTemplateStaticMem.cpp.s
+
+.PHONY : ClassTemplateStaticMem.s
+
+# target to generate assembly for a file
+ClassTemplateStaticMem.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.s
+.PHONY : ClassTemplateStaticMem.cpp.s
+
+FunctionTemplateStaticVar.o: FunctionTemplateStaticVar.cpp.o
+
+.PHONY : FunctionTemplateStaticVar.o
+
+# target to build an object file
+FunctionTemplateStaticVar.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o
+.PHONY : FunctionTemplateStaticVar.cpp.o
+
+FunctionTemplateStaticVar.i: FunctionTemplateStaticVar.cpp.i
+
+.PHONY : FunctionTemplateStaticVar.i
+
+# target to preprocess a source file
+FunctionTemplateStaticVar.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.i
+.PHONY : FunctionTemplateStaticVar.cpp.i
+
+FunctionTemplateStaticVar.s: FunctionTemplateStaticVar.cpp.s
+
+.PHONY : FunctionTemplateStaticVar.s
+
+# target to generate assembly for a file
+FunctionTemplateStaticVar.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.s
+.PHONY : FunctionTemplateStaticVar.cpp.s
+
+NonTypeTemplateParam.o: NonTypeTemplateParam.cpp.o
+
+.PHONY : NonTypeTemplateParam.o
+
+# target to build an object file
+NonTypeTemplateParam.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o
+.PHONY : NonTypeTemplateParam.cpp.o
+
+NonTypeTemplateParam.i: NonTypeTemplateParam.cpp.i
+
+.PHONY : NonTypeTemplateParam.i
+
+# target to preprocess a source file
+NonTypeTemplateParam.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.i
+.PHONY : NonTypeTemplateParam.cpp.i
+
+NonTypeTemplateParam.s: NonTypeTemplateParam.cpp.s
+
+.PHONY : NonTypeTemplateParam.s
+
+# target to generate assembly for a file
+NonTypeTemplateParam.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.s
+.PHONY : NonTypeTemplateParam.cpp.s
+
+PointTemplateFriendFunction.o: PointTemplateFriendFunction.cpp.o
+
+.PHONY : PointTemplateFriendFunction.o
+
+# target to build an object file
+PointTemplateFriendFunction.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o
+.PHONY : PointTemplateFriendFunction.cpp.o
+
+PointTemplateFriendFunction.i: PointTemplateFriendFunction.cpp.i
+
+.PHONY : PointTemplateFriendFunction.i
+
+# target to preprocess a source file
+PointTemplateFriendFunction.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.i
+.PHONY : PointTemplateFriendFunction.cpp.i
+
+PointTemplateFriendFunction.s: PointTemplateFriendFunction.cpp.s
+
+.PHONY : PointTemplateFriendFunction.s
+
+# target to generate assembly for a file
+PointTemplateFriendFunction.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.s
+.PHONY : PointTemplateFriendFunction.cpp.s
+
+TemplateParamDefaultValue.o: TemplateParamDefaultValue.cpp.o
+
+.PHONY : TemplateParamDefaultValue.o
+
+# target to build an object file
+TemplateParamDefaultValue.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o
+.PHONY : TemplateParamDefaultValue.cpp.o
+
+TemplateParamDefaultValue.i: TemplateParamDefaultValue.cpp.i
+
+.PHONY : TemplateParamDefaultValue.i
+
+# target to preprocess a source file
+TemplateParamDefaultValue.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.i
+.PHONY : TemplateParamDefaultValue.cpp.i
+
+TemplateParamDefaultValue.s: TemplateParamDefaultValue.cpp.s
+
+.PHONY : TemplateParamDefaultValue.s
+
+# target to generate assembly for a file
+TemplateParamDefaultValue.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter14.dir/build.make CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.s
+.PHONY : TemplateParamDefaultValue.cpp.s
 
 # Help Target
 help:
@@ -159,9 +348,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Chapter14"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... BoundArrayMain.o"
+	@echo "... BoundArrayMain.i"
+	@echo "... BoundArrayMain.s"
+	@echo "... ClassTemplatePartialSpecialization.o"
+	@echo "... ClassTemplatePartialSpecialization.i"
+	@echo "... ClassTemplatePartialSpecialization.s"
+	@echo "... ClassTemplateSpecialization.o"
+	@echo "... ClassTemplateSpecialization.i"
+	@echo "... ClassTemplateSpecialization.s"
+	@echo "... ClassTemplateStaticMem.o"
+	@echo "... ClassTemplateStaticMem.i"
+	@echo "... ClassTemplateStaticMem.s"
+	@echo "... FunctionTemplateStaticVar.o"
+	@echo "... FunctionTemplateStaticVar.i"
+	@echo "... FunctionTemplateStaticVar.s"
+	@echo "... NonTypeTemplateParam.o"
+	@echo "... NonTypeTemplateParam.i"
+	@echo "... NonTypeTemplateParam.s"
+	@echo "... PointTemplateFriendFunction.o"
+	@echo "... PointTemplateFriendFunction.i"
+	@echo "... PointTemplateFriendFunction.s"
+	@echo "... TemplateParamDefaultValue.o"
+	@echo "... TemplateParamDefaultValue.i"
+	@echo "... TemplateParamDefaultValue.s"
 .PHONY : help
 
 

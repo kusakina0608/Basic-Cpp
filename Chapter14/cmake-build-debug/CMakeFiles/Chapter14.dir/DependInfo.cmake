@@ -4,7 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/main.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/main.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/BoundArrayMain.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplatePartialSpecialization.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateSpecialization.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateStaticMem.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/FunctionTemplateStaticVar.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/NonTypeTemplateParam.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/PointTemplateFriendFunction.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/TemplateParamDefaultValue.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

@@ -80,7 +80,34 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/main.cpp">
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/ArrayTemplate.h">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/BoundArrayMain.cpp">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplatePartialSpecialization.cpp">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateSpecialization.cpp">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateStaticMem.cpp">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/FunctionTemplateStaticVar.cpp">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/NonTypeTemplateParam.cpp">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/PointTemplate.h">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/PointTemplateFriendFunction.cpp">
+			<Option target="Chapter14"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/TemplateParamDefaultValue.cpp">
 			<Option target="Chapter14"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter14/CMakeLists.txt">

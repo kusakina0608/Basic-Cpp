@@ -57,30 +57,135 @@ include CMakeFiles/Chapter14.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Chapter14.dir/flags.make
 
-CMakeFiles/Chapter14.dir/main.cpp.o: CMakeFiles/Chapter14.dir/flags.make
-CMakeFiles/Chapter14.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter14.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/main.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/main.cpp
+CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o: ../BoundArrayMain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/BoundArrayMain.cpp
 
-CMakeFiles/Chapter14.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/main.cpp > CMakeFiles/Chapter14.dir/main.cpp.i
+CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/BoundArrayMain.cpp > CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.i
 
-CMakeFiles/Chapter14.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/main.cpp -o CMakeFiles/Chapter14.dir/main.cpp.s
+CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/BoundArrayMain.cpp -o CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.s
+
+CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o: ../PointTemplateFriendFunction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/PointTemplateFriendFunction.cpp
+
+CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/PointTemplateFriendFunction.cpp > CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.i
+
+CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/PointTemplateFriendFunction.cpp -o CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.s
+
+CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o: ../ClassTemplateSpecialization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateSpecialization.cpp
+
+CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateSpecialization.cpp > CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.i
+
+CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateSpecialization.cpp -o CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.s
+
+CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o: ../ClassTemplatePartialSpecialization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplatePartialSpecialization.cpp
+
+CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplatePartialSpecialization.cpp > CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.i
+
+CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplatePartialSpecialization.cpp -o CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.s
+
+CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o: ../NonTypeTemplateParam.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/NonTypeTemplateParam.cpp
+
+CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/NonTypeTemplateParam.cpp > CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.i
+
+CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/NonTypeTemplateParam.cpp -o CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.s
+
+CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o: ../TemplateParamDefaultValue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/TemplateParamDefaultValue.cpp
+
+CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/TemplateParamDefaultValue.cpp > CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.i
+
+CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/TemplateParamDefaultValue.cpp -o CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.s
+
+CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o: ../FunctionTemplateStaticVar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/FunctionTemplateStaticVar.cpp
+
+CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/FunctionTemplateStaticVar.cpp > CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.i
+
+CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/FunctionTemplateStaticVar.cpp -o CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.s
+
+CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o: CMakeFiles/Chapter14.dir/flags.make
+CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o: ../ClassTemplateStaticMem.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateStaticMem.cpp
+
+CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateStaticMem.cpp > CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.i
+
+CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter14/ClassTemplateStaticMem.cpp -o CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.s
 
 # Object files for target Chapter14
 Chapter14_OBJECTS = \
-"CMakeFiles/Chapter14.dir/main.cpp.o"
+"CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o" \
+"CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o" \
+"CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o" \
+"CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o" \
+"CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o" \
+"CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o" \
+"CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o" \
+"CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o"
 
 # External object files for target Chapter14
 Chapter14_EXTERNAL_OBJECTS =
 
-Chapter14: CMakeFiles/Chapter14.dir/main.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/BoundArrayMain.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/PointTemplateFriendFunction.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/ClassTemplateSpecialization.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/ClassTemplatePartialSpecialization.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/NonTypeTemplateParam.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/TemplateParamDefaultValue.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/FunctionTemplateStaticVar.cpp.o
+Chapter14: CMakeFiles/Chapter14.dir/ClassTemplateStaticMem.cpp.o
 Chapter14: CMakeFiles/Chapter14.dir/build.make
 Chapter14: CMakeFiles/Chapter14.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Chapter14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter14/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Chapter14"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter14.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
