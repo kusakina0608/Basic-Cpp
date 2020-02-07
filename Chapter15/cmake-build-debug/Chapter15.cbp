@@ -80,7 +80,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/main.cpp">
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim2.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/BadAlloc.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchFlow.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchList.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/DiffHandlingPosition.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionTryCatch.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionUseIf.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/PassException.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/ReThrow.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/StackUnwinding.cpp">
+			<Option target="Chapter15"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/UnhandlingException.cpp">
 			<Option target="Chapter15"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter15/CMakeLists.txt">

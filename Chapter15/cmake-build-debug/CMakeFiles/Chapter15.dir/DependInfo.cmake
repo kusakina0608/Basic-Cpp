@@ -4,7 +4,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/main.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/main.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/ATMSim.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim2.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/ATMSim2.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/BadAlloc.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/BadAlloc.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchFlow.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/CatchFlow.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchList.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/CatchList.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/DiffHandlingPosition.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionTryCatch.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionUseIf.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/PassException.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/PassException.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/ReThrow.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/ReThrow.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/StackUnwinding.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o"
+  "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/UnhandlingException.cpp" "/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

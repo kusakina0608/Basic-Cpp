@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter15/BadAlloc.cpp
+iostream
+-
+new
+-
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter15/ReThrow.cpp
+iostream
+-
+

@@ -123,32 +123,329 @@ Chapter15/fast:
 	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/build
 .PHONY : Chapter15/fast
 
-main.o: main.cpp.o
+ATMSim.o: ATMSim.cpp.o
 
-.PHONY : main.o
+.PHONY : ATMSim.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/main.cpp.o
-.PHONY : main.cpp.o
+ATMSim.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ATMSim.cpp.o
+.PHONY : ATMSim.cpp.o
 
-main.i: main.cpp.i
+ATMSim.i: ATMSim.cpp.i
 
-.PHONY : main.i
+.PHONY : ATMSim.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/main.cpp.i
-.PHONY : main.cpp.i
+ATMSim.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ATMSim.cpp.i
+.PHONY : ATMSim.cpp.i
 
-main.s: main.cpp.s
+ATMSim.s: ATMSim.cpp.s
 
-.PHONY : main.s
+.PHONY : ATMSim.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/main.cpp.s
-.PHONY : main.cpp.s
+ATMSim.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ATMSim.cpp.s
+.PHONY : ATMSim.cpp.s
+
+ATMSim2.o: ATMSim2.cpp.o
+
+.PHONY : ATMSim2.o
+
+# target to build an object file
+ATMSim2.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ATMSim2.cpp.o
+.PHONY : ATMSim2.cpp.o
+
+ATMSim2.i: ATMSim2.cpp.i
+
+.PHONY : ATMSim2.i
+
+# target to preprocess a source file
+ATMSim2.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ATMSim2.cpp.i
+.PHONY : ATMSim2.cpp.i
+
+ATMSim2.s: ATMSim2.cpp.s
+
+.PHONY : ATMSim2.s
+
+# target to generate assembly for a file
+ATMSim2.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ATMSim2.cpp.s
+.PHONY : ATMSim2.cpp.s
+
+BadAlloc.o: BadAlloc.cpp.o
+
+.PHONY : BadAlloc.o
+
+# target to build an object file
+BadAlloc.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/BadAlloc.cpp.o
+.PHONY : BadAlloc.cpp.o
+
+BadAlloc.i: BadAlloc.cpp.i
+
+.PHONY : BadAlloc.i
+
+# target to preprocess a source file
+BadAlloc.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/BadAlloc.cpp.i
+.PHONY : BadAlloc.cpp.i
+
+BadAlloc.s: BadAlloc.cpp.s
+
+.PHONY : BadAlloc.s
+
+# target to generate assembly for a file
+BadAlloc.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/BadAlloc.cpp.s
+.PHONY : BadAlloc.cpp.s
+
+CatchFlow.o: CatchFlow.cpp.o
+
+.PHONY : CatchFlow.o
+
+# target to build an object file
+CatchFlow.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/CatchFlow.cpp.o
+.PHONY : CatchFlow.cpp.o
+
+CatchFlow.i: CatchFlow.cpp.i
+
+.PHONY : CatchFlow.i
+
+# target to preprocess a source file
+CatchFlow.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/CatchFlow.cpp.i
+.PHONY : CatchFlow.cpp.i
+
+CatchFlow.s: CatchFlow.cpp.s
+
+.PHONY : CatchFlow.s
+
+# target to generate assembly for a file
+CatchFlow.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/CatchFlow.cpp.s
+.PHONY : CatchFlow.cpp.s
+
+CatchList.o: CatchList.cpp.o
+
+.PHONY : CatchList.o
+
+# target to build an object file
+CatchList.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/CatchList.cpp.o
+.PHONY : CatchList.cpp.o
+
+CatchList.i: CatchList.cpp.i
+
+.PHONY : CatchList.i
+
+# target to preprocess a source file
+CatchList.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/CatchList.cpp.i
+.PHONY : CatchList.cpp.i
+
+CatchList.s: CatchList.cpp.s
+
+.PHONY : CatchList.s
+
+# target to generate assembly for a file
+CatchList.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/CatchList.cpp.s
+.PHONY : CatchList.cpp.s
+
+DiffHandlingPosition.o: DiffHandlingPosition.cpp.o
+
+.PHONY : DiffHandlingPosition.o
+
+# target to build an object file
+DiffHandlingPosition.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o
+.PHONY : DiffHandlingPosition.cpp.o
+
+DiffHandlingPosition.i: DiffHandlingPosition.cpp.i
+
+.PHONY : DiffHandlingPosition.i
+
+# target to preprocess a source file
+DiffHandlingPosition.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.i
+.PHONY : DiffHandlingPosition.cpp.i
+
+DiffHandlingPosition.s: DiffHandlingPosition.cpp.s
+
+.PHONY : DiffHandlingPosition.s
+
+# target to generate assembly for a file
+DiffHandlingPosition.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.s
+.PHONY : DiffHandlingPosition.cpp.s
+
+HandlingExceptionTryCatch.o: HandlingExceptionTryCatch.cpp.o
+
+.PHONY : HandlingExceptionTryCatch.o
+
+# target to build an object file
+HandlingExceptionTryCatch.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o
+.PHONY : HandlingExceptionTryCatch.cpp.o
+
+HandlingExceptionTryCatch.i: HandlingExceptionTryCatch.cpp.i
+
+.PHONY : HandlingExceptionTryCatch.i
+
+# target to preprocess a source file
+HandlingExceptionTryCatch.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.i
+.PHONY : HandlingExceptionTryCatch.cpp.i
+
+HandlingExceptionTryCatch.s: HandlingExceptionTryCatch.cpp.s
+
+.PHONY : HandlingExceptionTryCatch.s
+
+# target to generate assembly for a file
+HandlingExceptionTryCatch.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.s
+.PHONY : HandlingExceptionTryCatch.cpp.s
+
+HandlingExceptionUseIf.o: HandlingExceptionUseIf.cpp.o
+
+.PHONY : HandlingExceptionUseIf.o
+
+# target to build an object file
+HandlingExceptionUseIf.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o
+.PHONY : HandlingExceptionUseIf.cpp.o
+
+HandlingExceptionUseIf.i: HandlingExceptionUseIf.cpp.i
+
+.PHONY : HandlingExceptionUseIf.i
+
+# target to preprocess a source file
+HandlingExceptionUseIf.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.i
+.PHONY : HandlingExceptionUseIf.cpp.i
+
+HandlingExceptionUseIf.s: HandlingExceptionUseIf.cpp.s
+
+.PHONY : HandlingExceptionUseIf.s
+
+# target to generate assembly for a file
+HandlingExceptionUseIf.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.s
+.PHONY : HandlingExceptionUseIf.cpp.s
+
+PassException.o: PassException.cpp.o
+
+.PHONY : PassException.o
+
+# target to build an object file
+PassException.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/PassException.cpp.o
+.PHONY : PassException.cpp.o
+
+PassException.i: PassException.cpp.i
+
+.PHONY : PassException.i
+
+# target to preprocess a source file
+PassException.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/PassException.cpp.i
+.PHONY : PassException.cpp.i
+
+PassException.s: PassException.cpp.s
+
+.PHONY : PassException.s
+
+# target to generate assembly for a file
+PassException.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/PassException.cpp.s
+.PHONY : PassException.cpp.s
+
+ReThrow.o: ReThrow.cpp.o
+
+.PHONY : ReThrow.o
+
+# target to build an object file
+ReThrow.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ReThrow.cpp.o
+.PHONY : ReThrow.cpp.o
+
+ReThrow.i: ReThrow.cpp.i
+
+.PHONY : ReThrow.i
+
+# target to preprocess a source file
+ReThrow.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ReThrow.cpp.i
+.PHONY : ReThrow.cpp.i
+
+ReThrow.s: ReThrow.cpp.s
+
+.PHONY : ReThrow.s
+
+# target to generate assembly for a file
+ReThrow.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/ReThrow.cpp.s
+.PHONY : ReThrow.cpp.s
+
+StackUnwinding.o: StackUnwinding.cpp.o
+
+.PHONY : StackUnwinding.o
+
+# target to build an object file
+StackUnwinding.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o
+.PHONY : StackUnwinding.cpp.o
+
+StackUnwinding.i: StackUnwinding.cpp.i
+
+.PHONY : StackUnwinding.i
+
+# target to preprocess a source file
+StackUnwinding.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/StackUnwinding.cpp.i
+.PHONY : StackUnwinding.cpp.i
+
+StackUnwinding.s: StackUnwinding.cpp.s
+
+.PHONY : StackUnwinding.s
+
+# target to generate assembly for a file
+StackUnwinding.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/StackUnwinding.cpp.s
+.PHONY : StackUnwinding.cpp.s
+
+UnhandlingException.o: UnhandlingException.cpp.o
+
+.PHONY : UnhandlingException.o
+
+# target to build an object file
+UnhandlingException.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o
+.PHONY : UnhandlingException.cpp.o
+
+UnhandlingException.i: UnhandlingException.cpp.i
+
+.PHONY : UnhandlingException.i
+
+# target to preprocess a source file
+UnhandlingException.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/UnhandlingException.cpp.i
+.PHONY : UnhandlingException.cpp.i
+
+UnhandlingException.s: UnhandlingException.cpp.s
+
+.PHONY : UnhandlingException.s
+
+# target to generate assembly for a file
+UnhandlingException.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter15.dir/build.make CMakeFiles/Chapter15.dir/UnhandlingException.cpp.s
+.PHONY : UnhandlingException.cpp.s
 
 # Help Target
 help:
@@ -159,9 +456,42 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Chapter15"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... ATMSim.o"
+	@echo "... ATMSim.i"
+	@echo "... ATMSim.s"
+	@echo "... ATMSim2.o"
+	@echo "... ATMSim2.i"
+	@echo "... ATMSim2.s"
+	@echo "... BadAlloc.o"
+	@echo "... BadAlloc.i"
+	@echo "... BadAlloc.s"
+	@echo "... CatchFlow.o"
+	@echo "... CatchFlow.i"
+	@echo "... CatchFlow.s"
+	@echo "... CatchList.o"
+	@echo "... CatchList.i"
+	@echo "... CatchList.s"
+	@echo "... DiffHandlingPosition.o"
+	@echo "... DiffHandlingPosition.i"
+	@echo "... DiffHandlingPosition.s"
+	@echo "... HandlingExceptionTryCatch.o"
+	@echo "... HandlingExceptionTryCatch.i"
+	@echo "... HandlingExceptionTryCatch.s"
+	@echo "... HandlingExceptionUseIf.o"
+	@echo "... HandlingExceptionUseIf.i"
+	@echo "... HandlingExceptionUseIf.s"
+	@echo "... PassException.o"
+	@echo "... PassException.i"
+	@echo "... PassException.s"
+	@echo "... ReThrow.o"
+	@echo "... ReThrow.i"
+	@echo "... ReThrow.s"
+	@echo "... StackUnwinding.o"
+	@echo "... StackUnwinding.i"
+	@echo "... StackUnwinding.s"
+	@echo "... UnhandlingException.o"
+	@echo "... UnhandlingException.i"
+	@echo "... UnhandlingException.s"
 .PHONY : help
 
 

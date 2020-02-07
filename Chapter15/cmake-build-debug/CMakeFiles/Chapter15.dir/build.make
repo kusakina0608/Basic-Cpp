@@ -57,30 +57,195 @@ include CMakeFiles/Chapter15.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Chapter15.dir/flags.make
 
-CMakeFiles/Chapter15.dir/main.cpp.o: CMakeFiles/Chapter15.dir/flags.make
-CMakeFiles/Chapter15.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter15.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/main.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/main.cpp
+CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o: ../UnhandlingException.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/UnhandlingException.cpp
 
-CMakeFiles/Chapter15.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/main.cpp > CMakeFiles/Chapter15.dir/main.cpp.i
+CMakeFiles/Chapter15.dir/UnhandlingException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/UnhandlingException.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/UnhandlingException.cpp > CMakeFiles/Chapter15.dir/UnhandlingException.cpp.i
 
-CMakeFiles/Chapter15.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/main.cpp -o CMakeFiles/Chapter15.dir/main.cpp.s
+CMakeFiles/Chapter15.dir/UnhandlingException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/UnhandlingException.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/UnhandlingException.cpp -o CMakeFiles/Chapter15.dir/UnhandlingException.cpp.s
+
+CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o: ../HandlingExceptionUseIf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionUseIf.cpp
+
+CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionUseIf.cpp > CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.i
+
+CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionUseIf.cpp -o CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.s
+
+CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o: ../HandlingExceptionTryCatch.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionTryCatch.cpp
+
+CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionTryCatch.cpp > CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.i
+
+CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/HandlingExceptionTryCatch.cpp -o CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.s
+
+CMakeFiles/Chapter15.dir/PassException.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/PassException.cpp.o: ../PassException.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter15.dir/PassException.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/PassException.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/PassException.cpp
+
+CMakeFiles/Chapter15.dir/PassException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/PassException.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/PassException.cpp > CMakeFiles/Chapter15.dir/PassException.cpp.i
+
+CMakeFiles/Chapter15.dir/PassException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/PassException.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/PassException.cpp -o CMakeFiles/Chapter15.dir/PassException.cpp.s
+
+CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o: ../DiffHandlingPosition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/DiffHandlingPosition.cpp
+
+CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/DiffHandlingPosition.cpp > CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.i
+
+CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/DiffHandlingPosition.cpp -o CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.s
+
+CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o: ../StackUnwinding.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/StackUnwinding.cpp
+
+CMakeFiles/Chapter15.dir/StackUnwinding.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/StackUnwinding.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/StackUnwinding.cpp > CMakeFiles/Chapter15.dir/StackUnwinding.cpp.i
+
+CMakeFiles/Chapter15.dir/StackUnwinding.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/StackUnwinding.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/StackUnwinding.cpp -o CMakeFiles/Chapter15.dir/StackUnwinding.cpp.s
+
+CMakeFiles/Chapter15.dir/CatchList.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/CatchList.cpp.o: ../CatchList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter15.dir/CatchList.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/CatchList.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchList.cpp
+
+CMakeFiles/Chapter15.dir/CatchList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/CatchList.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchList.cpp > CMakeFiles/Chapter15.dir/CatchList.cpp.i
+
+CMakeFiles/Chapter15.dir/CatchList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/CatchList.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchList.cpp -o CMakeFiles/Chapter15.dir/CatchList.cpp.s
+
+CMakeFiles/Chapter15.dir/ATMSim.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/ATMSim.cpp.o: ../ATMSim.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter15.dir/ATMSim.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/ATMSim.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim.cpp
+
+CMakeFiles/Chapter15.dir/ATMSim.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/ATMSim.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim.cpp > CMakeFiles/Chapter15.dir/ATMSim.cpp.i
+
+CMakeFiles/Chapter15.dir/ATMSim.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/ATMSim.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim.cpp -o CMakeFiles/Chapter15.dir/ATMSim.cpp.s
+
+CMakeFiles/Chapter15.dir/ATMSim2.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/ATMSim2.cpp.o: ../ATMSim2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Chapter15.dir/ATMSim2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/ATMSim2.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim2.cpp
+
+CMakeFiles/Chapter15.dir/ATMSim2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/ATMSim2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim2.cpp > CMakeFiles/Chapter15.dir/ATMSim2.cpp.i
+
+CMakeFiles/Chapter15.dir/ATMSim2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/ATMSim2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ATMSim2.cpp -o CMakeFiles/Chapter15.dir/ATMSim2.cpp.s
+
+CMakeFiles/Chapter15.dir/CatchFlow.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/CatchFlow.cpp.o: ../CatchFlow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Chapter15.dir/CatchFlow.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/CatchFlow.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchFlow.cpp
+
+CMakeFiles/Chapter15.dir/CatchFlow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/CatchFlow.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchFlow.cpp > CMakeFiles/Chapter15.dir/CatchFlow.cpp.i
+
+CMakeFiles/Chapter15.dir/CatchFlow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/CatchFlow.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/CatchFlow.cpp -o CMakeFiles/Chapter15.dir/CatchFlow.cpp.s
+
+CMakeFiles/Chapter15.dir/BadAlloc.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/BadAlloc.cpp.o: ../BadAlloc.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Chapter15.dir/BadAlloc.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/BadAlloc.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/BadAlloc.cpp
+
+CMakeFiles/Chapter15.dir/BadAlloc.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/BadAlloc.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/BadAlloc.cpp > CMakeFiles/Chapter15.dir/BadAlloc.cpp.i
+
+CMakeFiles/Chapter15.dir/BadAlloc.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/BadAlloc.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/BadAlloc.cpp -o CMakeFiles/Chapter15.dir/BadAlloc.cpp.s
+
+CMakeFiles/Chapter15.dir/ReThrow.cpp.o: CMakeFiles/Chapter15.dir/flags.make
+CMakeFiles/Chapter15.dir/ReThrow.cpp.o: ../ReThrow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Chapter15.dir/ReThrow.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter15.dir/ReThrow.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ReThrow.cpp
+
+CMakeFiles/Chapter15.dir/ReThrow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter15.dir/ReThrow.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ReThrow.cpp > CMakeFiles/Chapter15.dir/ReThrow.cpp.i
+
+CMakeFiles/Chapter15.dir/ReThrow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter15.dir/ReThrow.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter15/ReThrow.cpp -o CMakeFiles/Chapter15.dir/ReThrow.cpp.s
 
 # Object files for target Chapter15
 Chapter15_OBJECTS = \
-"CMakeFiles/Chapter15.dir/main.cpp.o"
+"CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o" \
+"CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o" \
+"CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o" \
+"CMakeFiles/Chapter15.dir/PassException.cpp.o" \
+"CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o" \
+"CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o" \
+"CMakeFiles/Chapter15.dir/CatchList.cpp.o" \
+"CMakeFiles/Chapter15.dir/ATMSim.cpp.o" \
+"CMakeFiles/Chapter15.dir/ATMSim2.cpp.o" \
+"CMakeFiles/Chapter15.dir/CatchFlow.cpp.o" \
+"CMakeFiles/Chapter15.dir/BadAlloc.cpp.o" \
+"CMakeFiles/Chapter15.dir/ReThrow.cpp.o"
 
 # External object files for target Chapter15
 Chapter15_EXTERNAL_OBJECTS =
 
-Chapter15: CMakeFiles/Chapter15.dir/main.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/UnhandlingException.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/HandlingExceptionUseIf.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/HandlingExceptionTryCatch.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/PassException.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/DiffHandlingPosition.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/StackUnwinding.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/CatchList.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/ATMSim.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/ATMSim2.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/CatchFlow.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/BadAlloc.cpp.o
+Chapter15: CMakeFiles/Chapter15.dir/ReThrow.cpp.o
 Chapter15: CMakeFiles/Chapter15.dir/build.make
 Chapter15: CMakeFiles/Chapter15.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Chapter15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter15/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable Chapter15"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter15.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
