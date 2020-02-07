@@ -123,32 +123,221 @@ Chapter16/fast:
 	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/build
 .PHONY : Chapter16/fast
 
-main.o: main.cpp.o
+ConstCasting.o: ConstCasting.cpp.o
 
-.PHONY : main.o
+.PHONY : ConstCasting.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/main.cpp.o
-.PHONY : main.cpp.o
+ConstCasting.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/ConstCasting.cpp.o
+.PHONY : ConstCasting.cpp.o
 
-main.i: main.cpp.i
+ConstCasting.i: ConstCasting.cpp.i
 
-.PHONY : main.i
+.PHONY : ConstCasting.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/main.cpp.i
-.PHONY : main.cpp.i
+ConstCasting.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/ConstCasting.cpp.i
+.PHONY : ConstCasting.cpp.i
 
-main.s: main.cpp.s
+ConstCasting.s: ConstCasting.cpp.s
 
-.PHONY : main.s
+.PHONY : ConstCasting.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/main.cpp.s
-.PHONY : main.cpp.s
+ConstCasting.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/ConstCasting.cpp.s
+.PHONY : ConstCasting.cpp.s
+
+DynamicBadCastRef.o: DynamicBadCastRef.cpp.o
+
+.PHONY : DynamicBadCastRef.o
+
+# target to build an object file
+DynamicBadCastRef.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.o
+.PHONY : DynamicBadCastRef.cpp.o
+
+DynamicBadCastRef.i: DynamicBadCastRef.cpp.i
+
+.PHONY : DynamicBadCastRef.i
+
+# target to preprocess a source file
+DynamicBadCastRef.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.i
+.PHONY : DynamicBadCastRef.cpp.i
+
+DynamicBadCastRef.s: DynamicBadCastRef.cpp.s
+
+.PHONY : DynamicBadCastRef.s
+
+# target to generate assembly for a file
+DynamicBadCastRef.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.s
+.PHONY : DynamicBadCastRef.cpp.s
+
+DynamicCasting.o: DynamicCasting.cpp.o
+
+.PHONY : DynamicCasting.o
+
+# target to build an object file
+DynamicCasting.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/DynamicCasting.cpp.o
+.PHONY : DynamicCasting.cpp.o
+
+DynamicCasting.i: DynamicCasting.cpp.i
+
+.PHONY : DynamicCasting.i
+
+# target to preprocess a source file
+DynamicCasting.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/DynamicCasting.cpp.i
+.PHONY : DynamicCasting.cpp.i
+
+DynamicCasting.s: DynamicCasting.cpp.s
+
+.PHONY : DynamicCasting.s
+
+# target to generate assembly for a file
+DynamicCasting.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/DynamicCasting.cpp.s
+.PHONY : DynamicCasting.cpp.s
+
+PolymorphicDynamicCasting.o: PolymorphicDynamicCasting.cpp.o
+
+.PHONY : PolymorphicDynamicCasting.o
+
+# target to build an object file
+PolymorphicDynamicCasting.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.o
+.PHONY : PolymorphicDynamicCasting.cpp.o
+
+PolymorphicDynamicCasting.i: PolymorphicDynamicCasting.cpp.i
+
+.PHONY : PolymorphicDynamicCasting.i
+
+# target to preprocess a source file
+PolymorphicDynamicCasting.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.i
+.PHONY : PolymorphicDynamicCasting.cpp.i
+
+PolymorphicDynamicCasting.s: PolymorphicDynamicCasting.cpp.s
+
+.PHONY : PolymorphicDynamicCasting.s
+
+# target to generate assembly for a file
+PolymorphicDynamicCasting.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.s
+.PHONY : PolymorphicDynamicCasting.cpp.s
+
+PolymorphicStableCasting.o: PolymorphicStableCasting.cpp.o
+
+.PHONY : PolymorphicStableCasting.o
+
+# target to build an object file
+PolymorphicStableCasting.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.o
+.PHONY : PolymorphicStableCasting.cpp.o
+
+PolymorphicStableCasting.i: PolymorphicStableCasting.cpp.i
+
+.PHONY : PolymorphicStableCasting.i
+
+# target to preprocess a source file
+PolymorphicStableCasting.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.i
+.PHONY : PolymorphicStableCasting.cpp.i
+
+PolymorphicStableCasting.s: PolymorphicStableCasting.cpp.s
+
+.PHONY : PolymorphicStableCasting.s
+
+# target to generate assembly for a file
+PolymorphicStableCasting.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.s
+.PHONY : PolymorphicStableCasting.cpp.s
+
+PowerfullCasting.o: PowerfullCasting.cpp.o
+
+.PHONY : PowerfullCasting.o
+
+# target to build an object file
+PowerfullCasting.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.o
+.PHONY : PowerfullCasting.cpp.o
+
+PowerfullCasting.i: PowerfullCasting.cpp.i
+
+.PHONY : PowerfullCasting.i
+
+# target to preprocess a source file
+PowerfullCasting.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.i
+.PHONY : PowerfullCasting.cpp.i
+
+PowerfullCasting.s: PowerfullCasting.cpp.s
+
+.PHONY : PowerfullCasting.s
+
+# target to generate assembly for a file
+PowerfullCasting.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.s
+.PHONY : PowerfullCasting.cpp.s
+
+ReinterpretCasting.o: ReinterpretCasting.cpp.o
+
+.PHONY : ReinterpretCasting.o
+
+# target to build an object file
+ReinterpretCasting.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.o
+.PHONY : ReinterpretCasting.cpp.o
+
+ReinterpretCasting.i: ReinterpretCasting.cpp.i
+
+.PHONY : ReinterpretCasting.i
+
+# target to preprocess a source file
+ReinterpretCasting.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.i
+.PHONY : ReinterpretCasting.cpp.i
+
+ReinterpretCasting.s: ReinterpretCasting.cpp.s
+
+.PHONY : ReinterpretCasting.s
+
+# target to generate assembly for a file
+ReinterpretCasting.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.s
+.PHONY : ReinterpretCasting.cpp.s
+
+StaticCasting.o: StaticCasting.cpp.o
+
+.PHONY : StaticCasting.o
+
+# target to build an object file
+StaticCasting.cpp.o:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/StaticCasting.cpp.o
+.PHONY : StaticCasting.cpp.o
+
+StaticCasting.i: StaticCasting.cpp.i
+
+.PHONY : StaticCasting.i
+
+# target to preprocess a source file
+StaticCasting.cpp.i:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/StaticCasting.cpp.i
+.PHONY : StaticCasting.cpp.i
+
+StaticCasting.s: StaticCasting.cpp.s
+
+.PHONY : StaticCasting.s
+
+# target to generate assembly for a file
+StaticCasting.cpp.s:
+	$(MAKE) -f CMakeFiles/Chapter16.dir/build.make CMakeFiles/Chapter16.dir/StaticCasting.cpp.s
+.PHONY : StaticCasting.cpp.s
 
 # Help Target
 help:
@@ -159,9 +348,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Chapter16"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... ConstCasting.o"
+	@echo "... ConstCasting.i"
+	@echo "... ConstCasting.s"
+	@echo "... DynamicBadCastRef.o"
+	@echo "... DynamicBadCastRef.i"
+	@echo "... DynamicBadCastRef.s"
+	@echo "... DynamicCasting.o"
+	@echo "... DynamicCasting.i"
+	@echo "... DynamicCasting.s"
+	@echo "... PolymorphicDynamicCasting.o"
+	@echo "... PolymorphicDynamicCasting.i"
+	@echo "... PolymorphicDynamicCasting.s"
+	@echo "... PolymorphicStableCasting.o"
+	@echo "... PolymorphicStableCasting.i"
+	@echo "... PolymorphicStableCasting.s"
+	@echo "... PowerfullCasting.o"
+	@echo "... PowerfullCasting.i"
+	@echo "... PowerfullCasting.s"
+	@echo "... ReinterpretCasting.o"
+	@echo "... ReinterpretCasting.i"
+	@echo "... ReinterpretCasting.s"
+	@echo "... StaticCasting.o"
+	@echo "... StaticCasting.i"
+	@echo "... StaticCasting.s"
 .PHONY : help
 
 

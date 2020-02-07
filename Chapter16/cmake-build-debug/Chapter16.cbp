@@ -80,7 +80,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/main.cpp">
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/ConstCasting.cpp">
+			<Option target="Chapter16"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicBadCastRef.cpp">
+			<Option target="Chapter16"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicCasting.cpp">
+			<Option target="Chapter16"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicDynamicCasting.cpp">
+			<Option target="Chapter16"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicStableCasting.cpp">
+			<Option target="Chapter16"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/PowerfullCasting.cpp">
+			<Option target="Chapter16"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/ReinterpretCasting.cpp">
+			<Option target="Chapter16"/>
+		</Unit>
+		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/StaticCasting.cpp">
 			<Option target="Chapter16"/>
 		</Unit>
 		<Unit filename="/Users/kina/Documents/GitHub/BasicCpp/Chapter16/CMakeLists.txt">

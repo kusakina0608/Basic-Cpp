@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicBadCastRef.cpp
+iostream
+-
+
+/Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicStableCasting.cpp
+iostream
+-
+

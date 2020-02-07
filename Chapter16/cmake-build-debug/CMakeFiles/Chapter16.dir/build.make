@@ -57,30 +57,135 @@ include CMakeFiles/Chapter16.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Chapter16.dir/flags.make
 
-CMakeFiles/Chapter16.dir/main.cpp.o: CMakeFiles/Chapter16.dir/flags.make
-CMakeFiles/Chapter16.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter16.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/main.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/main.cpp
+CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.o: ../PowerfullCasting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PowerfullCasting.cpp
 
-CMakeFiles/Chapter16.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/main.cpp > CMakeFiles/Chapter16.dir/main.cpp.i
+CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PowerfullCasting.cpp > CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.i
 
-CMakeFiles/Chapter16.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/main.cpp -o CMakeFiles/Chapter16.dir/main.cpp.s
+CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PowerfullCasting.cpp -o CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.s
+
+CMakeFiles/Chapter16.dir/DynamicCasting.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/DynamicCasting.cpp.o: ../DynamicCasting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Chapter16.dir/DynamicCasting.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/DynamicCasting.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicCasting.cpp
+
+CMakeFiles/Chapter16.dir/DynamicCasting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/DynamicCasting.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicCasting.cpp > CMakeFiles/Chapter16.dir/DynamicCasting.cpp.i
+
+CMakeFiles/Chapter16.dir/DynamicCasting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/DynamicCasting.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicCasting.cpp -o CMakeFiles/Chapter16.dir/DynamicCasting.cpp.s
+
+CMakeFiles/Chapter16.dir/StaticCasting.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/StaticCasting.cpp.o: ../StaticCasting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Chapter16.dir/StaticCasting.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/StaticCasting.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/StaticCasting.cpp
+
+CMakeFiles/Chapter16.dir/StaticCasting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/StaticCasting.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/StaticCasting.cpp > CMakeFiles/Chapter16.dir/StaticCasting.cpp.i
+
+CMakeFiles/Chapter16.dir/StaticCasting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/StaticCasting.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/StaticCasting.cpp -o CMakeFiles/Chapter16.dir/StaticCasting.cpp.s
+
+CMakeFiles/Chapter16.dir/ConstCasting.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/ConstCasting.cpp.o: ../ConstCasting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Chapter16.dir/ConstCasting.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/ConstCasting.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/ConstCasting.cpp
+
+CMakeFiles/Chapter16.dir/ConstCasting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/ConstCasting.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/ConstCasting.cpp > CMakeFiles/Chapter16.dir/ConstCasting.cpp.i
+
+CMakeFiles/Chapter16.dir/ConstCasting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/ConstCasting.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/ConstCasting.cpp -o CMakeFiles/Chapter16.dir/ConstCasting.cpp.s
+
+CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.o: ../ReinterpretCasting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/ReinterpretCasting.cpp
+
+CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/ReinterpretCasting.cpp > CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.i
+
+CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/ReinterpretCasting.cpp -o CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.s
+
+CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.o: ../PolymorphicDynamicCasting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicDynamicCasting.cpp
+
+CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicDynamicCasting.cpp > CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.i
+
+CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicDynamicCasting.cpp -o CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.s
+
+CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.o: ../PolymorphicStableCasting.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicStableCasting.cpp
+
+CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicStableCasting.cpp > CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.i
+
+CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/PolymorphicStableCasting.cpp -o CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.s
+
+CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.o: CMakeFiles/Chapter16.dir/flags.make
+CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.o: ../DynamicBadCastRef.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.o -c /Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicBadCastRef.cpp
+
+CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicBadCastRef.cpp > CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.i
+
+CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/kina/Documents/GitHub/BasicCpp/Chapter16/DynamicBadCastRef.cpp -o CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.s
 
 # Object files for target Chapter16
 Chapter16_OBJECTS = \
-"CMakeFiles/Chapter16.dir/main.cpp.o"
+"CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.o" \
+"CMakeFiles/Chapter16.dir/DynamicCasting.cpp.o" \
+"CMakeFiles/Chapter16.dir/StaticCasting.cpp.o" \
+"CMakeFiles/Chapter16.dir/ConstCasting.cpp.o" \
+"CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.o" \
+"CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.o" \
+"CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.o" \
+"CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.o"
 
 # External object files for target Chapter16
 Chapter16_EXTERNAL_OBJECTS =
 
-Chapter16: CMakeFiles/Chapter16.dir/main.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/PowerfullCasting.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/DynamicCasting.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/StaticCasting.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/ConstCasting.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/ReinterpretCasting.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/PolymorphicDynamicCasting.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/PolymorphicStableCasting.cpp.o
+Chapter16: CMakeFiles/Chapter16.dir/DynamicBadCastRef.cpp.o
 Chapter16: CMakeFiles/Chapter16.dir/build.make
 Chapter16: CMakeFiles/Chapter16.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Chapter16"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/kina/Documents/GitHub/BasicCpp/Chapter16/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable Chapter16"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Chapter16.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
